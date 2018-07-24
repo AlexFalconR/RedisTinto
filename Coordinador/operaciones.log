@@ -1,0 +1,24 @@
+[INFO] 14:23:47:163 COORDINADOR/(2587:2587): Operacion finalizada: GET
+[INFO] 14:23:48:164 COORDINADOR/(2587:2587): Operacion finalizada: GET
+[INFO] 14:23:49:165 COORDINADOR/(2587:2587): Operacion finalizada: GET
+[INFO] 14:23:50:167 COORDINADOR/(2587:2587): Operacion finalizada: GET
+[INFO] 14:23:51:168 COORDINADOR/(2587:2587): Operacion finalizada: GET
+[INFO] 14:23:52:216 COORDINADOR/(2587:2587): Operacion reaizada: SET	Clave guardada: milanesa
+[INFO] 14:23:53:265 COORDINADOR/(2587:2587): Operacion reaizada: SET	Clave guardada: paty
+[INFO] 14:23:54:325 COORDINADOR/(2587:2587): Operacion reaizada: SET	Clave guardada: pancho
+[INFO] 14:23:55:368 COORDINADOR/(2587:2587): Operacion reaizada: SET	Clave guardada: empanada
+[INFO] 14:23:56:418 COORDINADOR/(2587:2587): Operacion reaizada: SET	Clave guardada: milanesa
+[INFO] 14:23:57:466 COORDINADOR/(2587:2587): Operacion reaizada: SET	Clave guardada: pizza
+[ERROR] 14:23:58:468 COORDINADOR/(2587:2587): Operacion no realizada: STORE, por error en planificador
+[INFO] 14:25:55:183 COORDINADOR/(2725:2725): Operacion finalizada: GET
+[INFO] 14:25:56:184 COORDINADOR/(2725:2725): Operacion finalizada: GET
+[INFO] 14:25:57:186 COORDINADOR/(2725:2725): Operacion finalizada: GET
+[INFO] 14:25:58:188 COORDINADOR/(2725:2725): Operacion finalizada: GET
+[INFO] 14:25:59:189 COORDINADOR/(2725:2725): Operacion finalizada: GET
+[INFO] 14:26:00:235 COORDINADOR/(2725:2725): Operacion reaizada: SET	Clave guardada: milanesa
+[INFO] 14:26:01:284 COORDINADOR/(2725:2725): Operacion reaizada: SET	Clave guardada: paty
+[INFO] 14:26:02:334 COORDINADOR/(2725:2725): Operacion reaizada: SET	Clave guardada: pancho
+[INFO] 14:26:03:379 COORDINADOR/(2725:2725): Operacion reaizada: SET	Clave guardada: empanada
+[INFO] 14:26:04:422 COORDINADOR/(2725:2725): Operacion reaizada: SET	Clave guardada: milanesa
+[INFO] 14:26:05:478 COORDINADOR/(2725:2725): Operacion reaizada: SET	Clave guardada: pizza
+[ERROR] 14:26:06:479 COORDINADOR/(2725:2725): Operacion no realizada: STORE, por error en planificador

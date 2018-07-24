@@ -1,0 +1,16 @@
+Get milanesa
+Get paty
+Get pancho
+Get empanada
+Get pizza
+Set milanesa napolitana
+Set paty casero
+Set pancho papas
+Set empanada carne
+Set milanesa caballo
+Set pizza muzzarella
+Store milanesa
+Store pancho
+Store empanada
+Store pizza
+Store paty

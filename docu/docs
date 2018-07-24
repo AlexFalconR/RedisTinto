@@ -1,0 +1,27 @@
+planificador -> ESI    Ejecutá
+
+---------flujo para GET------------------------------------------
+
+ESI -> COORD            operacion GET <clave>
+COORD -> planificador   checkear si existe la clave
+
+    ---no existe-----
+    planificador -> COORD   no existe <clave>
+    COORD -> ESI            abortar
+
+    ---existe--------
+    planificador -> COORD   existe <clave>
+    COORD -> planificador   checkear si está bloqueda la clave
+
+        ----no bloqueada-----
+        planificador -> COORD   clave no bloqueada
+        COORD -> planificador   bloquear clave <clave>
+        COORD -> ESI            devolver estado de exito de la operacion
+
+        ----bloqueda---------
+        planificador -> COORD   clave bloqueada
+        COORD -> planificador   bloquear ESI en cola de <clave>
+        COORD -> ESI            devolver estado de falla de la operacion
+
+
+----------flujo para SET--------------------------------------

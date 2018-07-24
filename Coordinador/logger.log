@@ -1,0 +1,142 @@
+[INFO] 14:23:17:923 COORDINADOR/(2587:2587): Logger iniciado
+[INFO] 14:23:17:923 COORDINADOR/(2587:2587): Log de operaciones iniciado
+[INFO] 14:23:17:923 COORDINADOR/(2587:2587): Levantando configuracion...
+[INFO] 14:23:17:923 COORDINADOR/(2587:2587): Configuracion: TAMANO_ENTRADA: 20
+[INFO] 14:23:17:923 COORDINADOR/(2587:2587): Configuracion: PUERTO_COORD: 8000
+[INFO] 14:23:17:923 COORDINADOR/(2587:2587): Configuracion: ENTRADAS: 50
+[INFO] 14:23:17:923 COORDINADOR/(2587:2587): Configuracion: ALG_DISTRIBUCION: EL
+[INFO] 14:23:17:923 COORDINADOR/(2587:2587): Configuracion: RETARDO: 1
+[INFO] 14:23:17:923 COORDINADOR/(2587:2587): comenzando select...
+[INFO] 14:23:17:923 COORDINADOR/(2587:2587): esperando conexiones
+[INFO] 14:23:20:658 COORDINADOR/(2587:2587): se recibio una nueva conexion
+[INFO] 14:23:20:659 COORDINADOR/(2587:2587): Se conecto el Planificador en el socket: 6
+[INFO] 14:23:20:659 COORDINADOR/(2587:2587): esperando conexiones
+[INFO] 14:23:27:521 COORDINADOR/(2587:2587): se recibio una nueva conexion
+[INFO] 14:23:27:521 COORDINADOR/(2587:2587): Se conecto una INST en el socket: 7
+[INFO] 14:23:27:521 COORDINADOR/(2587:2587): esperando conexiones
+[INFO] 14:23:33:235 COORDINADOR/(2587:2587): se recibio una nueva conexion
+[INFO] 14:23:33:236 COORDINADOR/(2587:2587): Se conecto una INST en el socket: 8
+[INFO] 14:23:33:236 COORDINADOR/(2587:2587): esperando conexiones
+[INFO] 14:23:47:162 COORDINADOR/(2587:2587): se recibio una nueva conexion
+[INFO] 14:23:47:162 COORDINADOR/(2587:2587): Se conecto un ESI en el socket: 9
+[INFO] 14:23:47:162 COORDINADOR/(2587:2587): esperando conexiones
+[INFO] 14:23:47:163 COORDINADOR/(2587:2587): se recibio data de un ciente conectado
+[INFO] 14:23:47:163 COORDINADOR/(2587:2587): recibo data de ESI en socket: 9
+[INFO] 14:23:47:163 COORDINADOR/(2587:2587): Se bloquea la clave milanesa
+[INFO] 14:23:48:163 COORDINADOR/(2587:2587): esperando conexiones
+[INFO] 14:23:48:163 COORDINADOR/(2587:2587): se recibio data de un ciente conectado
+[INFO] 14:23:48:163 COORDINADOR/(2587:2587): recibo data de ESI en socket: 9
+[INFO] 14:23:48:164 COORDINADOR/(2587:2587): Se bloquea la clave paty
+[INFO] 14:23:49:164 COORDINADOR/(2587:2587): esperando conexiones
+[INFO] 14:23:49:165 COORDINADOR/(2587:2587): se recibio data de un ciente conectado
+[INFO] 14:23:49:165 COORDINADOR/(2587:2587): recibo data de ESI en socket: 9
+[INFO] 14:23:49:165 COORDINADOR/(2587:2587): Se bloquea la clave pancho
+[INFO] 14:23:50:166 COORDINADOR/(2587:2587): esperando conexiones
+[INFO] 14:23:50:166 COORDINADOR/(2587:2587): se recibio data de un ciente conectado
+[INFO] 14:23:50:166 COORDINADOR/(2587:2587): recibo data de ESI en socket: 9
+[INFO] 14:23:50:167 COORDINADOR/(2587:2587): Se bloquea la clave empanada
+[INFO] 14:23:51:167 COORDINADOR/(2587:2587): esperando conexiones
+[INFO] 14:23:51:168 COORDINADOR/(2587:2587): se recibio data de un ciente conectado
+[INFO] 14:23:51:168 COORDINADOR/(2587:2587): recibo data de ESI en socket: 9
+[INFO] 14:23:51:168 COORDINADOR/(2587:2587): Se bloquea la clave pizza
+[INFO] 14:23:52:169 COORDINADOR/(2587:2587): esperando conexiones
+[INFO] 14:23:52:169 COORDINADOR/(2587:2587): se recibio data de un ciente conectado
+[INFO] 14:23:52:169 COORDINADOR/(2587:2587): recibo data de ESI en socket: 9
+[INFO] 14:23:52:216 COORDINADOR/(2587:2587): Clave guardada en la instancia, INSTANCIA1
+[INFO] 14:23:53:217 COORDINADOR/(2587:2587): esperando conexiones
+[INFO] 14:23:53:218 COORDINADOR/(2587:2587): se recibio data de un ciente conectado
+[INFO] 14:23:53:218 COORDINADOR/(2587:2587): recibo data de ESI en socket: 9
+[INFO] 14:23:53:265 COORDINADOR/(2587:2587): Clave guardada en la instancia, INSTANCIA1
+[INFO] 14:23:54:266 COORDINADOR/(2587:2587): esperando conexiones
+[INFO] 14:23:54:268 COORDINADOR/(2587:2587): se recibio data de un ciente conectado
+[INFO] 14:23:54:268 COORDINADOR/(2587:2587): recibo data de ESI en socket: 9
+[INFO] 14:23:54:325 COORDINADOR/(2587:2587): Clave guardada en la instancia, INSTANCIA1
+[INFO] 14:23:55:325 COORDINADOR/(2587:2587): esperando conexiones
+[INFO] 14:23:55:326 COORDINADOR/(2587:2587): se recibio data de un ciente conectado
+[INFO] 14:23:55:326 COORDINADOR/(2587:2587): recibo data de ESI en socket: 9
+[INFO] 14:23:55:368 COORDINADOR/(2587:2587): Clave guardada en la instancia, INSTANCIA1
+[INFO] 14:23:56:369 COORDINADOR/(2587:2587): esperando conexiones
+[INFO] 14:23:56:369 COORDINADOR/(2587:2587): se recibio data de un ciente conectado
+[INFO] 14:23:56:370 COORDINADOR/(2587:2587): recibo data de ESI en socket: 9
+[INFO] 14:23:56:418 COORDINADOR/(2587:2587): Clave guardada en la instancia, INSTANCIA1
+[INFO] 14:23:57:418 COORDINADOR/(2587:2587): esperando conexiones
+[INFO] 14:23:57:420 COORDINADOR/(2587:2587): se recibio data de un ciente conectado
+[INFO] 14:23:57:420 COORDINADOR/(2587:2587): recibo data de ESI en socket: 9
+[INFO] 14:23:57:465 COORDINADOR/(2587:2587): Clave guardada en la instancia, INSTANCIA1
+[INFO] 14:23:58:467 COORDINADOR/(2587:2587): esperando conexiones
+[INFO] 14:23:58:468 COORDINADOR/(2587:2587): se recibio data de un ciente conectado
+[INFO] 14:23:58:468 COORDINADOR/(2587:2587): recibo data de ESI en socket: 9
+[INFO] 14:23:58:469 COORDINADOR/(2587:2587): esperando conexiones
+[INFO] 14:25:46:212 COORDINADOR/(2587:2587): se recibio data de un ciente conectado
+[ERROR] 14:25:46:212 COORDINADOR/(2587:2587): Se desconecto el planificador, se terminará la ejecución del coordinador
+[INFO] 14:25:46:212 COORDINADOR/(2587:2587): Se eliminaron las estructuras
+[INFO] 14:25:49:717 COORDINADOR/(2725:2725): Logger iniciado
+[INFO] 14:25:49:717 COORDINADOR/(2725:2725): Log de operaciones iniciado
+[INFO] 14:25:49:717 COORDINADOR/(2725:2725): Levantando configuracion...
+[INFO] 14:25:49:717 COORDINADOR/(2725:2725): Configuracion: TAMANO_ENTRADA: 20
+[INFO] 14:25:49:717 COORDINADOR/(2725:2725): Configuracion: PUERTO_COORD: 8000
+[INFO] 14:25:49:717 COORDINADOR/(2725:2725): Configuracion: ENTRADAS: 50
+[INFO] 14:25:49:717 COORDINADOR/(2725:2725): Configuracion: ALG_DISTRIBUCION: EL
+[INFO] 14:25:49:717 COORDINADOR/(2725:2725): Configuracion: RETARDO: 1
+[INFO] 14:25:49:717 COORDINADOR/(2725:2725): comenzando select...
+[INFO] 14:25:49:717 COORDINADOR/(2725:2725): esperando conexiones
+[INFO] 14:25:52:25 COORDINADOR/(2725:2725): se recibio una nueva conexion
+[INFO] 14:25:52:25 COORDINADOR/(2725:2725): Se conecto el Planificador en el socket: 6
+[INFO] 14:25:52:25 COORDINADOR/(2725:2725): esperando conexiones
+[INFO] 14:25:53:609 COORDINADOR/(2725:2725): se recibio una nueva conexion
+[INFO] 14:25:53:609 COORDINADOR/(2725:2725): Se conecto una INST en el socket: 7
+[INFO] 14:25:53:609 COORDINADOR/(2725:2725): esperando conexiones
+[INFO] 14:25:55:183 COORDINADOR/(2725:2725): se recibio una nueva conexion
+[INFO] 14:25:55:183 COORDINADOR/(2725:2725): Se conecto un ESI en el socket: 8
+[INFO] 14:25:55:183 COORDINADOR/(2725:2725): esperando conexiones
+[INFO] 14:25:55:183 COORDINADOR/(2725:2725): se recibio data de un ciente conectado
+[INFO] 14:25:55:183 COORDINADOR/(2725:2725): recibo data de ESI en socket: 8
+[INFO] 14:25:55:183 COORDINADOR/(2725:2725): Se bloquea la clave milanesa
+[INFO] 14:25:56:184 COORDINADOR/(2725:2725): esperando conexiones
+[INFO] 14:25:56:184 COORDINADOR/(2725:2725): se recibio data de un ciente conectado
+[INFO] 14:25:56:184 COORDINADOR/(2725:2725): recibo data de ESI en socket: 8
+[INFO] 14:25:56:184 COORDINADOR/(2725:2725): Se bloquea la clave paty
+[INFO] 14:25:57:185 COORDINADOR/(2725:2725): esperando conexiones
+[INFO] 14:25:57:186 COORDINADOR/(2725:2725): se recibio data de un ciente conectado
+[INFO] 14:25:57:186 COORDINADOR/(2725:2725): recibo data de ESI en socket: 8
+[INFO] 14:25:57:186 COORDINADOR/(2725:2725): Se bloquea la clave pancho
+[INFO] 14:25:58:187 COORDINADOR/(2725:2725): esperando conexiones
+[INFO] 14:25:58:187 COORDINADOR/(2725:2725): se recibio data de un ciente conectado
+[INFO] 14:25:58:187 COORDINADOR/(2725:2725): recibo data de ESI en socket: 8
+[INFO] 14:25:58:188 COORDINADOR/(2725:2725): Se bloquea la clave empanada
+[INFO] 14:25:59:188 COORDINADOR/(2725:2725): esperando conexiones
+[INFO] 14:25:59:188 COORDINADOR/(2725:2725): se recibio data de un ciente conectado
+[INFO] 14:25:59:189 COORDINADOR/(2725:2725): recibo data de ESI en socket: 8
+[INFO] 14:25:59:189 COORDINADOR/(2725:2725): Se bloquea la clave pizza
+[INFO] 14:26:00:190 COORDINADOR/(2725:2725): esperando conexiones
+[INFO] 14:26:00:191 COORDINADOR/(2725:2725): se recibio data de un ciente conectado
+[INFO] 14:26:00:191 COORDINADOR/(2725:2725): recibo data de ESI en socket: 8
+[INFO] 14:26:00:235 COORDINADOR/(2725:2725): Clave guardada en la instancia, INSTANCIA1
+[INFO] 14:26:01:235 COORDINADOR/(2725:2725): esperando conexiones
+[INFO] 14:26:01:236 COORDINADOR/(2725:2725): se recibio data de un ciente conectado
+[INFO] 14:26:01:236 COORDINADOR/(2725:2725): recibo data de ESI en socket: 8
+[INFO] 14:26:01:284 COORDINADOR/(2725:2725): Clave guardada en la instancia, INSTANCIA1
+[INFO] 14:26:02:285 COORDINADOR/(2725:2725): esperando conexiones
+[INFO] 14:26:02:286 COORDINADOR/(2725:2725): se recibio data de un ciente conectado
+[INFO] 14:26:02:286 COORDINADOR/(2725:2725): recibo data de ESI en socket: 8
+[INFO] 14:26:02:333 COORDINADOR/(2725:2725): Clave guardada en la instancia, INSTANCIA1
+[INFO] 14:26:03:337 COORDINADOR/(2725:2725): esperando conexiones
+[INFO] 14:26:03:339 COORDINADOR/(2725:2725): se recibio data de un ciente conectado
+[INFO] 14:26:03:339 COORDINADOR/(2725:2725): recibo data de ESI en socket: 8
+[INFO] 14:26:03:379 COORDINADOR/(2725:2725): Clave guardada en la instancia, INSTANCIA1
+[INFO] 14:26:04:379 COORDINADOR/(2725:2725): esperando conexiones
+[INFO] 14:26:04:379 COORDINADOR/(2725:2725): se recibio data de un ciente conectado
+[INFO] 14:26:04:379 COORDINADOR/(2725:2725): recibo data de ESI en socket: 8
+[INFO] 14:26:04:421 COORDINADOR/(2725:2725): Clave guardada en la instancia, INSTANCIA1
+[INFO] 14:26:05:422 COORDINADOR/(2725:2725): esperando conexiones
+[INFO] 14:26:05:424 COORDINADOR/(2725:2725): se recibio data de un ciente conectado
+[INFO] 14:26:05:424 COORDINADOR/(2725:2725): recibo data de ESI en socket: 8
+[INFO] 14:26:05:477 COORDINADOR/(2725:2725): Clave guardada en la instancia, INSTANCIA1
+[INFO] 14:26:06:478 COORDINADOR/(2725:2725): esperando conexiones
+[INFO] 14:26:06:478 COORDINADOR/(2725:2725): se recibio data de un ciente conectado
+[INFO] 14:26:06:479 COORDINADOR/(2725:2725): recibo data de ESI en socket: 8
+[INFO] 14:26:06:479 COORDINADOR/(2725:2725): esperando conexiones
+[INFO] 14:26:37:915 COORDINADOR/(2725:2725): se recibio data de un ciente conectado
+[ERROR] 14:26:37:915 COORDINADOR/(2725:2725): Se desconecto un ESI
+[ERROR] 14:26:37:915 COORDINADOR/(2725:2725): Cliente envio un identificador invalido: -1
+[INFO] 14:26:37:916 COORDINADOR/(2725:2725): esperando conexiones

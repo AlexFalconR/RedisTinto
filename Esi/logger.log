@@ -1,0 +1,105 @@
+[INFO] 14:23:47:162 ESI/(2638:2638): Logger iniciado
+[INFO] 14:23:47:162 ESI/(2638:2638): Levantando configuracion
+[INFO] 14:23:47:162 ESI/(2638:2638): Configuracion levantada 127.0.0.1
+[INFO] 14:23:47:162 ESI/(2638:2638): Sentencias enlistadas
+[INFO] 14:23:47:162 ESI/(2638:2638): Sentencia parseada: GET	clave: milanesa
+
+[INFO] 14:23:47:163 ESI/(2638:2638): Se envio el GET
+[INFO] 14:23:47:163 ESI/(2638:2638): Se envio al planificador que la sentencia se ejecuto correctamente
+[INFO] 14:23:47:163 ESI/(2638:2638): Sentencia parseada: GET	clave: paty
+
+[INFO] 14:23:47:163 ESI/(2638:2638): Se envio el GET
+[INFO] 14:23:48:164 ESI/(2638:2638): Se envio al planificador que la sentencia se ejecuto correctamente
+[INFO] 14:23:48:169 ESI/(2638:2638): Sentencia parseada: GET	clave: pancho
+
+[INFO] 14:23:48:169 ESI/(2638:2638): Se envio el GET
+[INFO] 14:23:49:166 ESI/(2638:2638): Se envio al planificador que la sentencia se ejecuto correctamente
+[INFO] 14:23:49:166 ESI/(2638:2638): Sentencia parseada: GET	clave: empanada
+
+[INFO] 14:23:49:166 ESI/(2638:2638): Se envio el GET
+[INFO] 14:23:50:167 ESI/(2638:2638): Se envio al planificador que la sentencia se ejecuto correctamente
+[INFO] 14:23:50:167 ESI/(2638:2638): Sentencia parseada: GET	clave: pizza
+
+[INFO] 14:23:50:167 ESI/(2638:2638): Se envio el GET
+[INFO] 14:23:51:168 ESI/(2638:2638): Se envio al planificador que la sentencia se ejecuto correctamente
+[INFO] 14:23:51:169 ESI/(2638:2638): Sentencia parseada: SET	clave: milanesa	valor: napolitana
+
+[INFO] 14:23:51:169 ESI/(2638:2638): Se envio el SET
+[INFO] 14:23:53:217 ESI/(2638:2638): Se envio al planificador que la sentencia se ejecuto correctamente
+[INFO] 14:23:53:218 ESI/(2638:2638): Sentencia parseada: SET	clave: paty	valor: casero
+
+[INFO] 14:23:53:218 ESI/(2638:2638): Se envio el SET
+[INFO] 14:23:54:266 ESI/(2638:2638): Se envio al planificador que la sentencia se ejecuto correctamente
+[INFO] 14:23:54:267 ESI/(2638:2638): Sentencia parseada: SET	clave: pancho	valor: papas
+
+[INFO] 14:23:54:269 ESI/(2638:2638): Se envio el SET
+[INFO] 14:23:55:325 ESI/(2638:2638): Se envio al planificador que la sentencia se ejecuto correctamente
+[INFO] 14:23:55:326 ESI/(2638:2638): Sentencia parseada: SET	clave: empanada	valor: carne
+
+[INFO] 14:23:55:326 ESI/(2638:2638): Se envio el SET
+[INFO] 14:23:56:369 ESI/(2638:2638): Se envio al planificador que la sentencia se ejecuto correctamente
+[INFO] 14:23:56:369 ESI/(2638:2638): Sentencia parseada: SET	clave: milanesa	valor: caballo
+
+[INFO] 14:23:56:369 ESI/(2638:2638): Se envio el SET
+[INFO] 14:23:57:419 ESI/(2638:2638): Se envio al planificador que la sentencia se ejecuto correctamente
+[INFO] 14:23:57:419 ESI/(2638:2638): Sentencia parseada: SET	clave: pizza	valor: muzzarella
+
+[INFO] 14:23:57:420 ESI/(2638:2638): Se envio el SET
+[INFO] 14:23:58:467 ESI/(2638:2638): Se envio al planificador que la sentencia se ejecuto correctamente
+[INFO] 14:23:58:468 ESI/(2638:2638): Sentencia parseada: STORE	clave: milanesa
+
+[INFO] 14:23:58:468 ESI/(2638:2638): Se envio el STORE
+[ERROR] 14:23:58:469 ESI/(2638:2638): La clave no esta reservada por este ESI.
+[INFO] 14:25:46:212 ESI/(2638:2638): Se aborta el ESI en ejecucion
+[INFO] 14:25:55:182 ESI/(2756:2756): Logger iniciado
+[INFO] 14:25:55:182 ESI/(2756:2756): Levantando configuracion
+[INFO] 14:25:55:183 ESI/(2756:2756): Configuracion levantada 127.0.0.1
+[INFO] 14:25:55:183 ESI/(2756:2756): Sentencias enlistadas
+[INFO] 14:25:55:183 ESI/(2756:2756): Sentencia parseada: GET	clave: milanesa
+
+[INFO] 14:25:55:183 ESI/(2756:2756): Se envio el GET
+[INFO] 14:25:55:183 ESI/(2756:2756): Se envio al planificador que la sentencia se ejecuto correctamente
+[INFO] 14:25:55:184 ESI/(2756:2756): Sentencia parseada: GET	clave: paty
+
+[INFO] 14:25:55:184 ESI/(2756:2756): Se envio el GET
+[INFO] 14:25:56:185 ESI/(2756:2756): Se envio al planificador que la sentencia se ejecuto correctamente
+[INFO] 14:25:56:185 ESI/(2756:2756): Sentencia parseada: GET	clave: pancho
+
+[INFO] 14:25:56:185 ESI/(2756:2756): Se envio el GET
+[INFO] 14:25:57:186 ESI/(2756:2756): Se envio al planificador que la sentencia se ejecuto correctamente
+[INFO] 14:25:57:187 ESI/(2756:2756): Sentencia parseada: GET	clave: empanada
+
+[INFO] 14:25:57:187 ESI/(2756:2756): Se envio el GET
+[INFO] 14:25:58:188 ESI/(2756:2756): Se envio al planificador que la sentencia se ejecuto correctamente
+[INFO] 14:25:58:188 ESI/(2756:2756): Sentencia parseada: GET	clave: pizza
+
+[INFO] 14:25:58:188 ESI/(2756:2756): Se envio el GET
+[INFO] 14:25:59:189 ESI/(2756:2756): Se envio al planificador que la sentencia se ejecuto correctamente
+[INFO] 14:25:59:189 ESI/(2756:2756): Sentencia parseada: SET	clave: milanesa	valor: napolitana
+
+[INFO] 14:25:59:189 ESI/(2756:2756): Se envio el SET
+[INFO] 14:26:01:235 ESI/(2756:2756): Se envio al planificador que la sentencia se ejecuto correctamente
+[INFO] 14:26:01:236 ESI/(2756:2756): Sentencia parseada: SET	clave: paty	valor: casero
+
+[INFO] 14:26:01:236 ESI/(2756:2756): Se envio el SET
+[INFO] 14:26:02:285 ESI/(2756:2756): Se envio al planificador que la sentencia se ejecuto correctamente
+[INFO] 14:26:02:286 ESI/(2756:2756): Sentencia parseada: SET	clave: pancho	valor: papas
+
+[INFO] 14:26:02:286 ESI/(2756:2756): Se envio el SET
+[INFO] 14:26:03:338 ESI/(2756:2756): Se envio al planificador que la sentencia se ejecuto correctamente
+[INFO] 14:26:03:338 ESI/(2756:2756): Sentencia parseada: SET	clave: empanada	valor: carne
+
+[INFO] 14:26:03:339 ESI/(2756:2756): Se envio el SET
+[INFO] 14:26:04:379 ESI/(2756:2756): Se envio al planificador que la sentencia se ejecuto correctamente
+[INFO] 14:26:04:379 ESI/(2756:2756): Sentencia parseada: SET	clave: milanesa	valor: caballo
+
+[INFO] 14:26:04:379 ESI/(2756:2756): Se envio el SET
+[INFO] 14:26:05:422 ESI/(2756:2756): Se envio al planificador que la sentencia se ejecuto correctamente
+[INFO] 14:26:05:423 ESI/(2756:2756): Sentencia parseada: SET	clave: pizza	valor: muzzarella
+
+[INFO] 14:26:05:424 ESI/(2756:2756): Se envio el SET
+[INFO] 14:26:06:478 ESI/(2756:2756): Se envio al planificador que la sentencia se ejecuto correctamente
+[INFO] 14:26:06:478 ESI/(2756:2756): Sentencia parseada: STORE	clave: milanesa
+
+[INFO] 14:26:06:478 ESI/(2756:2756): Se envio el STORE
+[ERROR] 14:26:06:479 ESI/(2756:2756): La clave no esta reservada por este ESI.

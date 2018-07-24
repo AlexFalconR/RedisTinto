@@ -1,0 +1,1729 @@
+[INFO] 14:23:27:521 INSTANCIA/(2612:2612): Logger iniciado
+[INFO] 14:23:27:521 INSTANCIA/(2612:2612): Configuracion levantada
+[INFO] 14:23:27:521 INSTANCIA/(2612:2612): Intentando conectar con el coordinador
+[INFO] 14:23:27:560 INSTANCIA/(2612:2612): Conectado a Coordinador con socket 4 
+[INFO] 14:23:33:235 INSTANCIA/(2626:2626): Logger iniciado
+[INFO] 14:23:33:235 INSTANCIA/(2626:2626): Configuracion levantada
+[INFO] 14:23:33:235 INSTANCIA/(2626:2626): Intentando conectar con el coordinador
+[INFO] 14:23:33:273 INSTANCIA/(2626:2626): Conectado a Coordinador con socket 4 
+[INFO] 14:23:52:170 INSTANCIA/(2612:2612): accion recibida: SET
+[INFO] 14:23:52:170 INSTANCIA/(2612:2612): clave recibida para SET: milanesa
+[INFO] 14:23:52:209 INSTANCIA/(2612:2612): valor recibido para SET: napolitana
+[INFO] 14:23:52:209 INSTANCIA/(2612:2612): clave: milanesa
+[INFO] 14:23:52:210 INSTANCIA/(2612:2612): numero_ent: 0 , longitud: 10 , uso: 0 
+
+[INFO] 14:23:52:210 INSTANCIA/(2612:2612): El array de entradas es:
+[INFO] 14:23:52:210 INSTANCIA/(2612:2612): El argumento de la posicion 0 es 'milanesa'
+
+[INFO] 14:23:52:210 INSTANCIA/(2612:2612): El argumento de la posicion 1 es '(null)'
+
+[INFO] 14:23:52:210 INSTANCIA/(2612:2612): El argumento de la posicion 2 es '(null)'
+
+[INFO] 14:23:52:210 INSTANCIA/(2612:2612): El argumento de la posicion 3 es '(null)'
+
+[INFO] 14:23:52:210 INSTANCIA/(2612:2612): El argumento de la posicion 4 es '(null)'
+
+[INFO] 14:23:52:210 INSTANCIA/(2612:2612): El argumento de la posicion 5 es '(null)'
+
+[INFO] 14:23:52:210 INSTANCIA/(2612:2612): El argumento de la posicion 6 es '(null)'
+
+[INFO] 14:23:52:211 INSTANCIA/(2612:2612): El argumento de la posicion 7 es '(null)'
+
+[INFO] 14:23:52:211 INSTANCIA/(2612:2612): El argumento de la posicion 8 es '(null)'
+
+[INFO] 14:23:52:211 INSTANCIA/(2612:2612): El argumento de la posicion 9 es '(null)'
+
+[INFO] 14:23:52:211 INSTANCIA/(2612:2612): El argumento de la posicion 10 es '(null)'
+
+[INFO] 14:23:52:211 INSTANCIA/(2612:2612): El argumento de la posicion 11 es '(null)'
+
+[INFO] 14:23:52:211 INSTANCIA/(2612:2612): El argumento de la posicion 12 es '(null)'
+
+[INFO] 14:23:52:211 INSTANCIA/(2612:2612): El argumento de la posicion 13 es '(null)'
+
+[INFO] 14:23:52:211 INSTANCIA/(2612:2612): El argumento de la posicion 14 es '(null)'
+
+[INFO] 14:23:52:212 INSTANCIA/(2612:2612): El argumento de la posicion 15 es '(null)'
+
+[INFO] 14:23:52:212 INSTANCIA/(2612:2612): El argumento de la posicion 16 es '(null)'
+
+[INFO] 14:23:52:212 INSTANCIA/(2612:2612): El argumento de la posicion 17 es '(null)'
+
+[INFO] 14:23:52:212 INSTANCIA/(2612:2612): El argumento de la posicion 18 es '(null)'
+
+[INFO] 14:23:52:212 INSTANCIA/(2612:2612): El argumento de la posicion 19 es '(null)'
+
+[INFO] 14:23:52:212 INSTANCIA/(2612:2612): El argumento de la posicion 20 es '(null)'
+
+[INFO] 14:23:52:212 INSTANCIA/(2612:2612): El argumento de la posicion 21 es '(null)'
+
+[INFO] 14:23:52:212 INSTANCIA/(2612:2612): El argumento de la posicion 22 es '(null)'
+
+[INFO] 14:23:52:212 INSTANCIA/(2612:2612): El argumento de la posicion 23 es '(null)'
+
+[INFO] 14:23:52:213 INSTANCIA/(2612:2612): El argumento de la posicion 24 es '(null)'
+
+[INFO] 14:23:52:213 INSTANCIA/(2612:2612): El argumento de la posicion 25 es '(null)'
+
+[INFO] 14:23:52:213 INSTANCIA/(2612:2612): El argumento de la posicion 26 es '(null)'
+
+[INFO] 14:23:52:213 INSTANCIA/(2612:2612): El argumento de la posicion 27 es '(null)'
+
+[INFO] 14:23:52:213 INSTANCIA/(2612:2612): El argumento de la posicion 28 es '(null)'
+
+[INFO] 14:23:52:213 INSTANCIA/(2612:2612): El argumento de la posicion 29 es '(null)'
+
+[INFO] 14:23:52:213 INSTANCIA/(2612:2612): El argumento de la posicion 30 es '(null)'
+
+[INFO] 14:23:52:214 INSTANCIA/(2612:2612): El argumento de la posicion 31 es '(null)'
+
+[INFO] 14:23:52:214 INSTANCIA/(2612:2612): El argumento de la posicion 32 es '(null)'
+
+[INFO] 14:23:52:214 INSTANCIA/(2612:2612): El argumento de la posicion 33 es '(null)'
+
+[INFO] 14:23:52:214 INSTANCIA/(2612:2612): El argumento de la posicion 34 es '(null)'
+
+[INFO] 14:23:52:214 INSTANCIA/(2612:2612): El argumento de la posicion 35 es '(null)'
+
+[INFO] 14:23:52:214 INSTANCIA/(2612:2612): El argumento de la posicion 36 es '(null)'
+
+[INFO] 14:23:52:214 INSTANCIA/(2612:2612): El argumento de la posicion 37 es '(null)'
+
+[INFO] 14:23:52:214 INSTANCIA/(2612:2612): El argumento de la posicion 38 es '(null)'
+
+[INFO] 14:23:52:214 INSTANCIA/(2612:2612): El argumento de la posicion 39 es '(null)'
+
+[INFO] 14:23:52:215 INSTANCIA/(2612:2612): El argumento de la posicion 40 es '(null)'
+
+[INFO] 14:23:52:215 INSTANCIA/(2612:2612): El argumento de la posicion 41 es '(null)'
+
+[INFO] 14:23:52:215 INSTANCIA/(2612:2612): El argumento de la posicion 42 es '(null)'
+
+[INFO] 14:23:52:215 INSTANCIA/(2612:2612): El argumento de la posicion 43 es '(null)'
+
+[INFO] 14:23:52:215 INSTANCIA/(2612:2612): El argumento de la posicion 44 es '(null)'
+
+[INFO] 14:23:52:215 INSTANCIA/(2612:2612): El argumento de la posicion 45 es '(null)'
+
+[INFO] 14:23:52:215 INSTANCIA/(2612:2612): El argumento de la posicion 46 es '(null)'
+
+[INFO] 14:23:52:215 INSTANCIA/(2612:2612): El argumento de la posicion 47 es '(null)'
+
+[INFO] 14:23:52:215 INSTANCIA/(2612:2612): El argumento de la posicion 48 es '(null)'
+
+[INFO] 14:23:52:216 INSTANCIA/(2612:2612): El argumento de la posicion 49 es '(null)'
+
+[INFO] 14:23:52:216 INSTANCIA/(2612:2612): La entrada se escribio correctamente 
+
+[INFO] 14:23:52:216 INSTANCIA/(2612:2612): la entrada escrita es: napolitana 
+
+[INFO] 14:23:52:216 INSTANCIA/(2612:2612): clave: milanesa
+[INFO] 14:23:52:216 INSTANCIA/(2612:2612): numero_ent: 0 , longitud: 10 , uso: 0 
+
+[INFO] 14:23:53:219 INSTANCIA/(2612:2612): accion recibida: SET
+[INFO] 14:23:53:219 INSTANCIA/(2612:2612): clave recibida para SET: paty
+[INFO] 14:23:53:256 INSTANCIA/(2612:2612): valor recibido para SET: casero
+[INFO] 14:23:53:257 INSTANCIA/(2612:2612): clave: paty
+[INFO] 14:23:53:257 INSTANCIA/(2612:2612): numero_ent: 1 , longitud: 6 , uso: 0 
+
+[INFO] 14:23:53:257 INSTANCIA/(2612:2612): clave: milanesa
+[INFO] 14:23:53:257 INSTANCIA/(2612:2612): numero_ent: 0 , longitud: 10 , uso: 0 
+
+[INFO] 14:23:53:257 INSTANCIA/(2612:2612): El array de entradas es:
+[INFO] 14:23:53:258 INSTANCIA/(2612:2612): El argumento de la posicion 0 es ''
+
+[INFO] 14:23:53:258 INSTANCIA/(2612:2612): El argumento de la posicion 1 es 'paty'
+
+[INFO] 14:23:53:258 INSTANCIA/(2612:2612): El argumento de la posicion 2 es '(null)'
+
+[INFO] 14:23:53:258 INSTANCIA/(2612:2612): El argumento de la posicion 3 es '(null)'
+
+[INFO] 14:23:53:258 INSTANCIA/(2612:2612): El argumento de la posicion 4 es '(null)'
+
+[INFO] 14:23:53:258 INSTANCIA/(2612:2612): El argumento de la posicion 5 es '(null)'
+
+[INFO] 14:23:53:258 INSTANCIA/(2612:2612): El argumento de la posicion 6 es '(null)'
+
+[INFO] 14:23:53:258 INSTANCIA/(2612:2612): El argumento de la posicion 7 es '(null)'
+
+[INFO] 14:23:53:259 INSTANCIA/(2612:2612): El argumento de la posicion 8 es '(null)'
+
+[INFO] 14:23:53:259 INSTANCIA/(2612:2612): El argumento de la posicion 9 es '(null)'
+
+[INFO] 14:23:53:259 INSTANCIA/(2612:2612): El argumento de la posicion 10 es '(null)'
+
+[INFO] 14:23:53:260 INSTANCIA/(2612:2612): El argumento de la posicion 11 es '(null)'
+
+[INFO] 14:23:53:260 INSTANCIA/(2612:2612): El argumento de la posicion 12 es '(null)'
+
+[INFO] 14:23:53:260 INSTANCIA/(2612:2612): El argumento de la posicion 13 es '(null)'
+
+[INFO] 14:23:53:260 INSTANCIA/(2612:2612): El argumento de la posicion 14 es '(null)'
+
+[INFO] 14:23:53:260 INSTANCIA/(2612:2612): El argumento de la posicion 15 es '(null)'
+
+[INFO] 14:23:53:260 INSTANCIA/(2612:2612): El argumento de la posicion 16 es '(null)'
+
+[INFO] 14:23:53:260 INSTANCIA/(2612:2612): El argumento de la posicion 17 es '(null)'
+
+[INFO] 14:23:53:260 INSTANCIA/(2612:2612): El argumento de la posicion 18 es '(null)'
+
+[INFO] 14:23:53:260 INSTANCIA/(2612:2612): El argumento de la posicion 19 es '(null)'
+
+[INFO] 14:23:53:261 INSTANCIA/(2612:2612): El argumento de la posicion 20 es '(null)'
+
+[INFO] 14:23:53:261 INSTANCIA/(2612:2612): El argumento de la posicion 21 es '(null)'
+
+[INFO] 14:23:53:261 INSTANCIA/(2612:2612): El argumento de la posicion 22 es '(null)'
+
+[INFO] 14:23:53:261 INSTANCIA/(2612:2612): El argumento de la posicion 23 es '(null)'
+
+[INFO] 14:23:53:261 INSTANCIA/(2612:2612): El argumento de la posicion 24 es '(null)'
+
+[INFO] 14:23:53:261 INSTANCIA/(2612:2612): El argumento de la posicion 25 es '(null)'
+
+[INFO] 14:23:53:261 INSTANCIA/(2612:2612): El argumento de la posicion 26 es '(null)'
+
+[INFO] 14:23:53:261 INSTANCIA/(2612:2612): El argumento de la posicion 27 es '(null)'
+
+[INFO] 14:23:53:262 INSTANCIA/(2612:2612): El argumento de la posicion 28 es '(null)'
+
+[INFO] 14:23:53:262 INSTANCIA/(2612:2612): El argumento de la posicion 29 es '(null)'
+
+[INFO] 14:23:53:262 INSTANCIA/(2612:2612): El argumento de la posicion 30 es '(null)'
+
+[INFO] 14:23:53:262 INSTANCIA/(2612:2612): El argumento de la posicion 31 es '(null)'
+
+[INFO] 14:23:53:262 INSTANCIA/(2612:2612): El argumento de la posicion 32 es '(null)'
+
+[INFO] 14:23:53:262 INSTANCIA/(2612:2612): El argumento de la posicion 33 es '(null)'
+
+[INFO] 14:23:53:262 INSTANCIA/(2612:2612): El argumento de la posicion 34 es '(null)'
+
+[INFO] 14:23:53:262 INSTANCIA/(2612:2612): El argumento de la posicion 35 es '(null)'
+
+[INFO] 14:23:53:262 INSTANCIA/(2612:2612): El argumento de la posicion 36 es '(null)'
+
+[INFO] 14:23:53:262 INSTANCIA/(2612:2612): El argumento de la posicion 37 es '(null)'
+
+[INFO] 14:23:53:263 INSTANCIA/(2612:2612): El argumento de la posicion 38 es '(null)'
+
+[INFO] 14:23:53:263 INSTANCIA/(2612:2612): El argumento de la posicion 39 es '(null)'
+
+[INFO] 14:23:53:263 INSTANCIA/(2612:2612): El argumento de la posicion 40 es '(null)'
+
+[INFO] 14:23:53:263 INSTANCIA/(2612:2612): El argumento de la posicion 41 es '(null)'
+
+[INFO] 14:23:53:263 INSTANCIA/(2612:2612): El argumento de la posicion 42 es '(null)'
+
+[INFO] 14:23:53:263 INSTANCIA/(2612:2612): El argumento de la posicion 43 es '(null)'
+
+[INFO] 14:23:53:263 INSTANCIA/(2612:2612): El argumento de la posicion 44 es '(null)'
+
+[INFO] 14:23:53:263 INSTANCIA/(2612:2612): El argumento de la posicion 45 es '(null)'
+
+[INFO] 14:23:53:263 INSTANCIA/(2612:2612): El argumento de la posicion 46 es '(null)'
+
+[INFO] 14:23:53:264 INSTANCIA/(2612:2612): El argumento de la posicion 47 es '(null)'
+
+[INFO] 14:23:53:264 INSTANCIA/(2612:2612): El argumento de la posicion 48 es '(null)'
+
+[INFO] 14:23:53:264 INSTANCIA/(2612:2612): El argumento de la posicion 49 es '(null)'
+
+[INFO] 14:23:53:264 INSTANCIA/(2612:2612): La entrada se escribio correctamente 
+
+[INFO] 14:23:53:264 INSTANCIA/(2612:2612): la entrada escrita es: casero 
+
+[INFO] 14:23:53:264 INSTANCIA/(2612:2612): clave: paty
+[INFO] 14:23:53:264 INSTANCIA/(2612:2612): numero_ent: 1 , longitud: 6 , uso: 0 
+
+[INFO] 14:23:53:264 INSTANCIA/(2612:2612): clave: milanesa
+[INFO] 14:23:53:265 INSTANCIA/(2612:2612): numero_ent: 0 , longitud: 10 , uso: 1 
+
+[INFO] 14:23:54:270 INSTANCIA/(2612:2612): accion recibida: SET
+[INFO] 14:23:54:270 INSTANCIA/(2612:2612): clave recibida para SET: pancho
+[INFO] 14:23:54:309 INSTANCIA/(2612:2612): valor recibido para SET: papas
+[INFO] 14:23:54:309 INSTANCIA/(2612:2612): clave: pancho
+[INFO] 14:23:54:309 INSTANCIA/(2612:2612): numero_ent: 0 , longitud: 5 , uso: 0 
+
+[INFO] 14:23:54:309 INSTANCIA/(2612:2612): clave: paty
+[INFO] 14:23:54:309 INSTANCIA/(2612:2612): numero_ent: 1 , longitud: 6 , uso: 0 
+
+[INFO] 14:23:54:309 INSTANCIA/(2612:2612): clave: milanesa
+[INFO] 14:23:54:310 INSTANCIA/(2612:2612): numero_ent: 0 , longitud: 10 , uso: 1 
+
+[INFO] 14:23:54:310 INSTANCIA/(2612:2612): El array de entradas es:
+[INFO] 14:23:54:310 INSTANCIA/(2612:2612): El argumento de la posicion 0 es 'pancho'
+
+[INFO] 14:23:54:310 INSTANCIA/(2612:2612): El argumento de la posicion 1 es 'papas'
+
+[INFO] 14:23:54:310 INSTANCIA/(2612:2612): El argumento de la posicion 2 es '(null)'
+
+[INFO] 14:23:54:310 INSTANCIA/(2612:2612): El argumento de la posicion 3 es '(null)'
+
+[INFO] 14:23:54:310 INSTANCIA/(2612:2612): El argumento de la posicion 4 es '(null)'
+
+[INFO] 14:23:54:310 INSTANCIA/(2612:2612): El argumento de la posicion 5 es '(null)'
+
+[INFO] 14:23:54:311 INSTANCIA/(2612:2612): El argumento de la posicion 6 es '(null)'
+
+[INFO] 14:23:54:311 INSTANCIA/(2612:2612): El argumento de la posicion 7 es '(null)'
+
+[INFO] 14:23:54:311 INSTANCIA/(2612:2612): El argumento de la posicion 8 es '(null)'
+
+[INFO] 14:23:54:311 INSTANCIA/(2612:2612): El argumento de la posicion 9 es '(null)'
+
+[INFO] 14:23:54:311 INSTANCIA/(2612:2612): El argumento de la posicion 10 es '(null)'
+
+[INFO] 14:23:54:311 INSTANCIA/(2612:2612): El argumento de la posicion 11 es '(null)'
+
+[INFO] 14:23:54:311 INSTANCIA/(2612:2612): El argumento de la posicion 12 es '(null)'
+
+[INFO] 14:23:54:311 INSTANCIA/(2612:2612): El argumento de la posicion 13 es '(null)'
+
+[INFO] 14:23:54:312 INSTANCIA/(2612:2612): El argumento de la posicion 14 es '(null)'
+
+[INFO] 14:23:54:312 INSTANCIA/(2612:2612): El argumento de la posicion 15 es '(null)'
+
+[INFO] 14:23:54:312 INSTANCIA/(2612:2612): El argumento de la posicion 16 es '(null)'
+
+[INFO] 14:23:54:312 INSTANCIA/(2612:2612): El argumento de la posicion 17 es '(null)'
+
+[INFO] 14:23:54:312 INSTANCIA/(2612:2612): El argumento de la posicion 18 es '(null)'
+
+[INFO] 14:23:54:312 INSTANCIA/(2612:2612): El argumento de la posicion 19 es '(null)'
+
+[INFO] 14:23:54:312 INSTANCIA/(2612:2612): El argumento de la posicion 20 es '(null)'
+
+[INFO] 14:23:54:313 INSTANCIA/(2612:2612): El argumento de la posicion 21 es '(null)'
+
+[INFO] 14:23:54:313 INSTANCIA/(2612:2612): El argumento de la posicion 22 es '(null)'
+
+[INFO] 14:23:54:313 INSTANCIA/(2612:2612): El argumento de la posicion 23 es '(null)'
+
+[INFO] 14:23:54:313 INSTANCIA/(2612:2612): El argumento de la posicion 24 es '(null)'
+
+[INFO] 14:23:54:313 INSTANCIA/(2612:2612): El argumento de la posicion 25 es '(null)'
+
+[INFO] 14:23:54:313 INSTANCIA/(2612:2612): El argumento de la posicion 26 es '(null)'
+
+[INFO] 14:23:54:313 INSTANCIA/(2612:2612): El argumento de la posicion 27 es '(null)'
+
+[INFO] 14:23:54:313 INSTANCIA/(2612:2612): El argumento de la posicion 28 es '(null)'
+
+[INFO] 14:23:54:313 INSTANCIA/(2612:2612): El argumento de la posicion 29 es '(null)'
+
+[INFO] 14:23:54:314 INSTANCIA/(2612:2612): El argumento de la posicion 30 es '(null)'
+
+[INFO] 14:23:54:314 INSTANCIA/(2612:2612): El argumento de la posicion 31 es '(null)'
+
+[INFO] 14:23:54:314 INSTANCIA/(2612:2612): El argumento de la posicion 32 es '(null)'
+
+[INFO] 14:23:54:314 INSTANCIA/(2612:2612): El argumento de la posicion 33 es '(null)'
+
+[INFO] 14:23:54:314 INSTANCIA/(2612:2612): El argumento de la posicion 34 es '(null)'
+
+[INFO] 14:23:54:314 INSTANCIA/(2612:2612): El argumento de la posicion 35 es '(null)'
+
+[INFO] 14:23:54:314 INSTANCIA/(2612:2612): El argumento de la posicion 36 es '(null)'
+
+[INFO] 14:23:54:314 INSTANCIA/(2612:2612): El argumento de la posicion 37 es '(null)'
+
+[INFO] 14:23:54:314 INSTANCIA/(2612:2612): El argumento de la posicion 38 es '(null)'
+
+[INFO] 14:23:54:314 INSTANCIA/(2612:2612): El argumento de la posicion 39 es '(null)'
+
+[INFO] 14:23:54:315 INSTANCIA/(2612:2612): El argumento de la posicion 40 es '(null)'
+
+[INFO] 14:23:54:315 INSTANCIA/(2612:2612): El argumento de la posicion 41 es '(null)'
+
+[INFO] 14:23:54:315 INSTANCIA/(2612:2612): El argumento de la posicion 42 es '(null)'
+
+[INFO] 14:23:54:318 INSTANCIA/(2612:2612): El argumento de la posicion 43 es '(null)'
+
+[INFO] 14:23:54:318 INSTANCIA/(2612:2612): El argumento de la posicion 44 es '(null)'
+
+[INFO] 14:23:54:323 INSTANCIA/(2612:2612): El argumento de la posicion 45 es '(null)'
+
+[INFO] 14:23:54:323 INSTANCIA/(2612:2612): El argumento de la posicion 46 es '(null)'
+
+[INFO] 14:23:54:323 INSTANCIA/(2612:2612): El argumento de la posicion 47 es '(null)'
+
+[INFO] 14:23:54:323 INSTANCIA/(2612:2612): El argumento de la posicion 48 es '(null)'
+
+[INFO] 14:23:54:324 INSTANCIA/(2612:2612): El argumento de la posicion 49 es '(null)'
+
+[INFO] 14:23:54:324 INSTANCIA/(2612:2612): La entrada se escribio correctamente 
+
+[INFO] 14:23:54:324 INSTANCIA/(2612:2612): la entrada escrita es: papas 
+
+[INFO] 14:23:54:324 INSTANCIA/(2612:2612): clave: pancho
+[INFO] 14:23:54:324 INSTANCIA/(2612:2612): numero_ent: 0 , longitud: 5 , uso: 0 
+
+[INFO] 14:23:54:324 INSTANCIA/(2612:2612): clave: paty
+[INFO] 14:23:54:324 INSTANCIA/(2612:2612): numero_ent: 1 , longitud: 6 , uso: 1 
+
+[INFO] 14:23:54:324 INSTANCIA/(2612:2612): clave: milanesa
+[INFO] 14:23:54:324 INSTANCIA/(2612:2612): numero_ent: 0 , longitud: 10 , uso: 2 
+
+[INFO] 14:23:55:326 INSTANCIA/(2612:2612): accion recibida: SET
+[INFO] 14:23:55:326 INSTANCIA/(2612:2612): clave recibida para SET: empanada
+[INFO] 14:23:55:364 INSTANCIA/(2612:2612): valor recibido para SET: carne
+[INFO] 14:23:55:365 INSTANCIA/(2612:2612): clave: pancho
+[INFO] 14:23:55:365 INSTANCIA/(2612:2612): numero_ent: 0 , longitud: 5 , uso: 0 
+
+[INFO] 14:23:55:365 INSTANCIA/(2612:2612): clave: paty
+[INFO] 14:23:55:365 INSTANCIA/(2612:2612): numero_ent: 1 , longitud: 6 , uso: 1 
+
+[INFO] 14:23:55:365 INSTANCIA/(2612:2612): clave: empanada
+[INFO] 14:23:55:365 INSTANCIA/(2612:2612): numero_ent: 2 , longitud: 5 , uso: 0 
+
+[INFO] 14:23:55:365 INSTANCIA/(2612:2612): clave: milanesa
+[INFO] 14:23:55:365 INSTANCIA/(2612:2612): numero_ent: 0 , longitud: 10 , uso: 2 
+
+[INFO] 14:23:55:365 INSTANCIA/(2612:2612): El array de entradas es:
+[INFO] 14:23:55:365 INSTANCIA/(2612:2612): El argumento de la posicion 0 es 'carne'
+
+[INFO] 14:23:55:365 INSTANCIA/(2612:2612): El argumento de la posicion 1 es 'empanada'
+
+[INFO] 14:23:55:365 INSTANCIA/(2612:2612): El argumento de la posicion 2 es 'empanada'
+
+[INFO] 14:23:55:365 INSTANCIA/(2612:2612): El argumento de la posicion 3 es '(null)'
+
+[INFO] 14:23:55:365 INSTANCIA/(2612:2612): El argumento de la posicion 4 es '(null)'
+
+[INFO] 14:23:55:365 INSTANCIA/(2612:2612): El argumento de la posicion 5 es '(null)'
+
+[INFO] 14:23:55:365 INSTANCIA/(2612:2612): El argumento de la posicion 6 es '(null)'
+
+[INFO] 14:23:55:365 INSTANCIA/(2612:2612): El argumento de la posicion 7 es '(null)'
+
+[INFO] 14:23:55:366 INSTANCIA/(2612:2612): El argumento de la posicion 8 es '(null)'
+
+[INFO] 14:23:55:366 INSTANCIA/(2612:2612): El argumento de la posicion 9 es '(null)'
+
+[INFO] 14:23:55:366 INSTANCIA/(2612:2612): El argumento de la posicion 10 es '(null)'
+
+[INFO] 14:23:55:366 INSTANCIA/(2612:2612): El argumento de la posicion 11 es '(null)'
+
+[INFO] 14:23:55:366 INSTANCIA/(2612:2612): El argumento de la posicion 12 es '(null)'
+
+[INFO] 14:23:55:366 INSTANCIA/(2612:2612): El argumento de la posicion 13 es '(null)'
+
+[INFO] 14:23:55:366 INSTANCIA/(2612:2612): El argumento de la posicion 14 es '(null)'
+
+[INFO] 14:23:55:366 INSTANCIA/(2612:2612): El argumento de la posicion 15 es '(null)'
+
+[INFO] 14:23:55:366 INSTANCIA/(2612:2612): El argumento de la posicion 16 es '(null)'
+
+[INFO] 14:23:55:366 INSTANCIA/(2612:2612): El argumento de la posicion 17 es '(null)'
+
+[INFO] 14:23:55:366 INSTANCIA/(2612:2612): El argumento de la posicion 18 es '(null)'
+
+[INFO] 14:23:55:366 INSTANCIA/(2612:2612): El argumento de la posicion 19 es '(null)'
+
+[INFO] 14:23:55:366 INSTANCIA/(2612:2612): El argumento de la posicion 20 es '(null)'
+
+[INFO] 14:23:55:366 INSTANCIA/(2612:2612): El argumento de la posicion 21 es '(null)'
+
+[INFO] 14:23:55:366 INSTANCIA/(2612:2612): El argumento de la posicion 22 es '(null)'
+
+[INFO] 14:23:55:366 INSTANCIA/(2612:2612): El argumento de la posicion 23 es '(null)'
+
+[INFO] 14:23:55:366 INSTANCIA/(2612:2612): El argumento de la posicion 24 es '(null)'
+
+[INFO] 14:23:55:366 INSTANCIA/(2612:2612): El argumento de la posicion 25 es '(null)'
+
+[INFO] 14:23:55:366 INSTANCIA/(2612:2612): El argumento de la posicion 26 es '(null)'
+
+[INFO] 14:23:55:366 INSTANCIA/(2612:2612): El argumento de la posicion 27 es '(null)'
+
+[INFO] 14:23:55:366 INSTANCIA/(2612:2612): El argumento de la posicion 28 es '(null)'
+
+[INFO] 14:23:55:366 INSTANCIA/(2612:2612): El argumento de la posicion 29 es '(null)'
+
+[INFO] 14:23:55:366 INSTANCIA/(2612:2612): El argumento de la posicion 30 es '(null)'
+
+[INFO] 14:23:55:367 INSTANCIA/(2612:2612): El argumento de la posicion 31 es '(null)'
+
+[INFO] 14:23:55:367 INSTANCIA/(2612:2612): El argumento de la posicion 32 es '(null)'
+
+[INFO] 14:23:55:367 INSTANCIA/(2612:2612): El argumento de la posicion 33 es '(null)'
+
+[INFO] 14:23:55:367 INSTANCIA/(2612:2612): El argumento de la posicion 34 es '(null)'
+
+[INFO] 14:23:55:367 INSTANCIA/(2612:2612): El argumento de la posicion 35 es '(null)'
+
+[INFO] 14:23:55:367 INSTANCIA/(2612:2612): El argumento de la posicion 36 es '(null)'
+
+[INFO] 14:23:55:367 INSTANCIA/(2612:2612): El argumento de la posicion 37 es '(null)'
+
+[INFO] 14:23:55:367 INSTANCIA/(2612:2612): El argumento de la posicion 38 es '(null)'
+
+[INFO] 14:23:55:367 INSTANCIA/(2612:2612): El argumento de la posicion 39 es '(null)'
+
+[INFO] 14:23:55:367 INSTANCIA/(2612:2612): El argumento de la posicion 40 es '(null)'
+
+[INFO] 14:23:55:367 INSTANCIA/(2612:2612): El argumento de la posicion 41 es '(null)'
+
+[INFO] 14:23:55:367 INSTANCIA/(2612:2612): El argumento de la posicion 42 es '(null)'
+
+[INFO] 14:23:55:367 INSTANCIA/(2612:2612): El argumento de la posicion 43 es '(null)'
+
+[INFO] 14:23:55:367 INSTANCIA/(2612:2612): El argumento de la posicion 44 es '(null)'
+
+[INFO] 14:23:55:367 INSTANCIA/(2612:2612): El argumento de la posicion 45 es '(null)'
+
+[INFO] 14:23:55:367 INSTANCIA/(2612:2612): El argumento de la posicion 46 es '(null)'
+
+[INFO] 14:23:55:367 INSTANCIA/(2612:2612): El argumento de la posicion 47 es '(null)'
+
+[INFO] 14:23:55:367 INSTANCIA/(2612:2612): El argumento de la posicion 48 es '(null)'
+
+[INFO] 14:23:55:367 INSTANCIA/(2612:2612): El argumento de la posicion 49 es '(null)'
+
+[INFO] 14:23:55:367 INSTANCIA/(2612:2612): La entrada se escribio correctamente 
+
+[INFO] 14:23:55:367 INSTANCIA/(2612:2612): la entrada escrita es: carne 
+
+[INFO] 14:23:55:367 INSTANCIA/(2612:2612): clave: pancho
+[INFO] 14:23:55:368 INSTANCIA/(2612:2612): numero_ent: 0 , longitud: 5 , uso: 1 
+
+[INFO] 14:23:55:368 INSTANCIA/(2612:2612): clave: paty
+[INFO] 14:23:55:368 INSTANCIA/(2612:2612): numero_ent: 1 , longitud: 6 , uso: 2 
+
+[INFO] 14:23:55:368 INSTANCIA/(2612:2612): clave: empanada
+[INFO] 14:23:55:368 INSTANCIA/(2612:2612): numero_ent: 2 , longitud: 5 , uso: 0 
+
+[INFO] 14:23:55:368 INSTANCIA/(2612:2612): clave: milanesa
+[INFO] 14:23:55:368 INSTANCIA/(2612:2612): numero_ent: 0 , longitud: 10 , uso: 3 
+
+[INFO] 14:23:56:370 INSTANCIA/(2612:2612): accion recibida: SET
+[INFO] 14:23:56:370 INSTANCIA/(2612:2612): clave recibida para SET: milanesa
+[INFO] 14:23:56:409 INSTANCIA/(2612:2612): valor recibido para SET: caballo
+[INFO] 14:23:56:409 INSTANCIA/(2612:2612): El argumento de la posicion 0 es ''
+
+[INFO] 14:23:56:409 INSTANCIA/(2612:2612): El argumento de la posicion 1 es 'caballo'
+
+[INFO] 14:23:56:409 INSTANCIA/(2612:2612): El argumento de la posicion 2 es 'caballo'
+
+[INFO] 14:23:56:409 INSTANCIA/(2612:2612): El argumento de la posicion 3 es '(null)'
+
+[INFO] 14:23:56:409 INSTANCIA/(2612:2612): El argumento de la posicion 4 es '(null)'
+
+[INFO] 14:23:56:410 INSTANCIA/(2612:2612): El argumento de la posicion 5 es '(null)'
+
+[INFO] 14:23:56:410 INSTANCIA/(2612:2612): El argumento de la posicion 6 es '(null)'
+
+[INFO] 14:23:56:410 INSTANCIA/(2612:2612): El argumento de la posicion 7 es '(null)'
+
+[INFO] 14:23:56:410 INSTANCIA/(2612:2612): El argumento de la posicion 8 es '(null)'
+
+[INFO] 14:23:56:410 INSTANCIA/(2612:2612): El argumento de la posicion 9 es '(null)'
+
+[INFO] 14:23:56:410 INSTANCIA/(2612:2612): El argumento de la posicion 10 es '(null)'
+
+[INFO] 14:23:56:410 INSTANCIA/(2612:2612): El argumento de la posicion 11 es '(null)'
+
+[INFO] 14:23:56:410 INSTANCIA/(2612:2612): El argumento de la posicion 12 es '(null)'
+
+[INFO] 14:23:56:410 INSTANCIA/(2612:2612): El argumento de la posicion 13 es '(null)'
+
+[INFO] 14:23:56:410 INSTANCIA/(2612:2612): El argumento de la posicion 14 es '(null)'
+
+[INFO] 14:23:56:410 INSTANCIA/(2612:2612): El argumento de la posicion 15 es '(null)'
+
+[INFO] 14:23:56:410 INSTANCIA/(2612:2612): El argumento de la posicion 16 es '(null)'
+
+[INFO] 14:23:56:411 INSTANCIA/(2612:2612): El argumento de la posicion 17 es '(null)'
+
+[INFO] 14:23:56:411 INSTANCIA/(2612:2612): El argumento de la posicion 18 es '(null)'
+
+[INFO] 14:23:56:411 INSTANCIA/(2612:2612): El argumento de la posicion 19 es '(null)'
+
+[INFO] 14:23:56:411 INSTANCIA/(2612:2612): El argumento de la posicion 20 es '(null)'
+
+[INFO] 14:23:56:411 INSTANCIA/(2612:2612): El argumento de la posicion 21 es '(null)'
+
+[INFO] 14:23:56:411 INSTANCIA/(2612:2612): El argumento de la posicion 22 es '(null)'
+
+[INFO] 14:23:56:411 INSTANCIA/(2612:2612): El argumento de la posicion 23 es '(null)'
+
+[INFO] 14:23:56:411 INSTANCIA/(2612:2612): El argumento de la posicion 24 es '(null)'
+
+[INFO] 14:23:56:411 INSTANCIA/(2612:2612): El argumento de la posicion 25 es '(null)'
+
+[INFO] 14:23:56:411 INSTANCIA/(2612:2612): El argumento de la posicion 26 es '(null)'
+
+[INFO] 14:23:56:411 INSTANCIA/(2612:2612): El argumento de la posicion 27 es '(null)'
+
+[INFO] 14:23:56:411 INSTANCIA/(2612:2612): El argumento de la posicion 28 es '(null)'
+
+[INFO] 14:23:56:411 INSTANCIA/(2612:2612): El argumento de la posicion 29 es '(null)'
+
+[INFO] 14:23:56:411 INSTANCIA/(2612:2612): El argumento de la posicion 30 es '(null)'
+
+[INFO] 14:23:56:412 INSTANCIA/(2612:2612): El argumento de la posicion 31 es '(null)'
+
+[INFO] 14:23:56:412 INSTANCIA/(2612:2612): El argumento de la posicion 32 es '(null)'
+
+[INFO] 14:23:56:412 INSTANCIA/(2612:2612): El argumento de la posicion 33 es '(null)'
+
+[INFO] 14:23:56:412 INSTANCIA/(2612:2612): El argumento de la posicion 34 es '(null)'
+
+[INFO] 14:23:56:412 INSTANCIA/(2612:2612): El argumento de la posicion 35 es '(null)'
+
+[INFO] 14:23:56:412 INSTANCIA/(2612:2612): El argumento de la posicion 36 es '(null)'
+
+[INFO] 14:23:56:412 INSTANCIA/(2612:2612): El argumento de la posicion 37 es '(null)'
+
+[INFO] 14:23:56:412 INSTANCIA/(2612:2612): El argumento de la posicion 38 es '(null)'
+
+[INFO] 14:23:56:412 INSTANCIA/(2612:2612): El argumento de la posicion 39 es '(null)'
+
+[INFO] 14:23:56:412 INSTANCIA/(2612:2612): El argumento de la posicion 40 es '(null)'
+
+[INFO] 14:23:56:412 INSTANCIA/(2612:2612): El argumento de la posicion 41 es '(null)'
+
+[INFO] 14:23:56:412 INSTANCIA/(2612:2612): El argumento de la posicion 42 es '(null)'
+
+[INFO] 14:23:56:412 INSTANCIA/(2612:2612): El argumento de la posicion 43 es '(null)'
+
+[INFO] 14:23:56:412 INSTANCIA/(2612:2612): El argumento de la posicion 44 es '(null)'
+
+[INFO] 14:23:56:412 INSTANCIA/(2612:2612): El argumento de la posicion 45 es '(null)'
+
+[INFO] 14:23:56:412 INSTANCIA/(2612:2612): El argumento de la posicion 46 es '(null)'
+
+[INFO] 14:23:56:413 INSTANCIA/(2612:2612): El argumento de la posicion 47 es '(null)'
+
+[INFO] 14:23:56:413 INSTANCIA/(2612:2612): El argumento de la posicion 48 es '(null)'
+
+[INFO] 14:23:56:413 INSTANCIA/(2612:2612): El argumento de la posicion 49 es '(null)'
+
+[INFO] 14:23:56:413 INSTANCIA/(2612:2612): clave: pancho
+[INFO] 14:23:56:413 INSTANCIA/(2612:2612): numero_ent: 0 , longitud: 5 , uso: 1 
+
+[INFO] 14:23:56:413 INSTANCIA/(2612:2612): clave: paty
+[INFO] 14:23:56:413 INSTANCIA/(2612:2612): numero_ent: 1 , longitud: 6 , uso: 2 
+
+[INFO] 14:23:56:413 INSTANCIA/(2612:2612): clave: empanada
+[INFO] 14:23:56:413 INSTANCIA/(2612:2612): numero_ent: 2 , longitud: 5 , uso: 0 
+
+[INFO] 14:23:56:413 INSTANCIA/(2612:2612): clave: milanesa
+[INFO] 14:23:56:413 INSTANCIA/(2612:2612): numero_ent: 0 , longitud: 7 , uso: 0 
+
+[INFO] 14:23:56:413 INSTANCIA/(2612:2612): El argumento de la posicion 0 es 'milanesa'
+
+[INFO] 14:23:56:413 INSTANCIA/(2612:2612): El argumento de la posicion 1 es 'caballo'
+
+[INFO] 14:23:56:413 INSTANCIA/(2612:2612): El argumento de la posicion 2 es 'caballo'
+
+[INFO] 14:23:56:413 INSTANCIA/(2612:2612): El argumento de la posicion 3 es '(null)'
+
+[INFO] 14:23:56:414 INSTANCIA/(2612:2612): El argumento de la posicion 4 es '(null)'
+
+[INFO] 14:23:56:414 INSTANCIA/(2612:2612): El argumento de la posicion 5 es '(null)'
+
+[INFO] 14:23:56:414 INSTANCIA/(2612:2612): El argumento de la posicion 6 es '(null)'
+
+[INFO] 14:23:56:414 INSTANCIA/(2612:2612): El argumento de la posicion 7 es '(null)'
+
+[INFO] 14:23:56:414 INSTANCIA/(2612:2612): El argumento de la posicion 8 es '(null)'
+
+[INFO] 14:23:56:414 INSTANCIA/(2612:2612): El argumento de la posicion 9 es '(null)'
+
+[INFO] 14:23:56:414 INSTANCIA/(2612:2612): El argumento de la posicion 10 es '(null)'
+
+[INFO] 14:23:56:414 INSTANCIA/(2612:2612): El argumento de la posicion 11 es '(null)'
+
+[INFO] 14:23:56:414 INSTANCIA/(2612:2612): El argumento de la posicion 12 es '(null)'
+
+[INFO] 14:23:56:414 INSTANCIA/(2612:2612): El argumento de la posicion 13 es '(null)'
+
+[INFO] 14:23:56:414 INSTANCIA/(2612:2612): El argumento de la posicion 14 es '(null)'
+
+[INFO] 14:23:56:414 INSTANCIA/(2612:2612): El argumento de la posicion 15 es '(null)'
+
+[INFO] 14:23:56:414 INSTANCIA/(2612:2612): El argumento de la posicion 16 es '(null)'
+
+[INFO] 14:23:56:415 INSTANCIA/(2612:2612): El argumento de la posicion 17 es '(null)'
+
+[INFO] 14:23:56:415 INSTANCIA/(2612:2612): El argumento de la posicion 18 es '(null)'
+
+[INFO] 14:23:56:415 INSTANCIA/(2612:2612): El argumento de la posicion 19 es '(null)'
+
+[INFO] 14:23:56:415 INSTANCIA/(2612:2612): El argumento de la posicion 20 es '(null)'
+
+[INFO] 14:23:56:415 INSTANCIA/(2612:2612): El argumento de la posicion 21 es '(null)'
+
+[INFO] 14:23:56:415 INSTANCIA/(2612:2612): El argumento de la posicion 22 es '(null)'
+
+[INFO] 14:23:56:415 INSTANCIA/(2612:2612): El argumento de la posicion 23 es '(null)'
+
+[INFO] 14:23:56:415 INSTANCIA/(2612:2612): El argumento de la posicion 24 es '(null)'
+
+[INFO] 14:23:56:415 INSTANCIA/(2612:2612): El argumento de la posicion 25 es '(null)'
+
+[INFO] 14:23:56:415 INSTANCIA/(2612:2612): El argumento de la posicion 26 es '(null)'
+
+[INFO] 14:23:56:415 INSTANCIA/(2612:2612): El argumento de la posicion 27 es '(null)'
+
+[INFO] 14:23:56:415 INSTANCIA/(2612:2612): El argumento de la posicion 28 es '(null)'
+
+[INFO] 14:23:56:415 INSTANCIA/(2612:2612): El argumento de la posicion 29 es '(null)'
+
+[INFO] 14:23:56:415 INSTANCIA/(2612:2612): El argumento de la posicion 30 es '(null)'
+
+[INFO] 14:23:56:416 INSTANCIA/(2612:2612): El argumento de la posicion 31 es '(null)'
+
+[INFO] 14:23:56:416 INSTANCIA/(2612:2612): El argumento de la posicion 32 es '(null)'
+
+[INFO] 14:23:56:416 INSTANCIA/(2612:2612): El argumento de la posicion 33 es '(null)'
+
+[INFO] 14:23:56:416 INSTANCIA/(2612:2612): El argumento de la posicion 34 es '(null)'
+
+[INFO] 14:23:56:416 INSTANCIA/(2612:2612): El argumento de la posicion 35 es '(null)'
+
+[INFO] 14:23:56:416 INSTANCIA/(2612:2612): El argumento de la posicion 36 es '(null)'
+
+[INFO] 14:23:56:416 INSTANCIA/(2612:2612): El argumento de la posicion 37 es '(null)'
+
+[INFO] 14:23:56:416 INSTANCIA/(2612:2612): El argumento de la posicion 38 es '(null)'
+
+[INFO] 14:23:56:416 INSTANCIA/(2612:2612): El argumento de la posicion 39 es '(null)'
+
+[INFO] 14:23:56:416 INSTANCIA/(2612:2612): El argumento de la posicion 40 es '(null)'
+
+[INFO] 14:23:56:416 INSTANCIA/(2612:2612): El argumento de la posicion 41 es '(null)'
+
+[INFO] 14:23:56:416 INSTANCIA/(2612:2612): El argumento de la posicion 42 es '(null)'
+
+[INFO] 14:23:56:416 INSTANCIA/(2612:2612): El argumento de la posicion 43 es '(null)'
+
+[INFO] 14:23:56:416 INSTANCIA/(2612:2612): El argumento de la posicion 44 es '(null)'
+
+[INFO] 14:23:56:416 INSTANCIA/(2612:2612): El argumento de la posicion 45 es '(null)'
+
+[INFO] 14:23:56:417 INSTANCIA/(2612:2612): El argumento de la posicion 46 es '(null)'
+
+[INFO] 14:23:56:417 INSTANCIA/(2612:2612): El argumento de la posicion 47 es '(null)'
+
+[INFO] 14:23:56:417 INSTANCIA/(2612:2612): El argumento de la posicion 48 es '(null)'
+
+[INFO] 14:23:56:417 INSTANCIA/(2612:2612): El argumento de la posicion 49 es '(null)'
+
+[INFO] 14:23:56:417 INSTANCIA/(2612:2612): clave: pancho
+[INFO] 14:23:56:417 INSTANCIA/(2612:2612): numero_ent: 0 , longitud: 5 , uso: 2 
+
+[INFO] 14:23:56:417 INSTANCIA/(2612:2612): clave: paty
+[INFO] 14:23:56:417 INSTANCIA/(2612:2612): numero_ent: 1 , longitud: 6 , uso: 3 
+
+[INFO] 14:23:56:417 INSTANCIA/(2612:2612): clave: empanada
+[INFO] 14:23:56:417 INSTANCIA/(2612:2612): numero_ent: 2 , longitud: 5 , uso: 1 
+
+[INFO] 14:23:56:417 INSTANCIA/(2612:2612): clave: milanesa
+[INFO] 14:23:56:417 INSTANCIA/(2612:2612): numero_ent: 0 , longitud: 7 , uso: 0 
+
+[INFO] 14:23:57:420 INSTANCIA/(2612:2612): accion recibida: SET
+[INFO] 14:23:57:421 INSTANCIA/(2612:2612): clave recibida para SET: pizza
+[INFO] 14:23:57:457 INSTANCIA/(2612:2612): valor recibido para SET: muzzarella
+[INFO] 14:23:57:457 INSTANCIA/(2612:2612): clave: pancho
+[INFO] 14:23:57:457 INSTANCIA/(2612:2612): numero_ent: 0 , longitud: 5 , uso: 2 
+
+[INFO] 14:23:57:457 INSTANCIA/(2612:2612): clave: paty
+[INFO] 14:23:57:458 INSTANCIA/(2612:2612): numero_ent: 1 , longitud: 6 , uso: 3 
+
+[INFO] 14:23:57:458 INSTANCIA/(2612:2612): clave: empanada
+[INFO] 14:23:57:458 INSTANCIA/(2612:2612): numero_ent: 2 , longitud: 5 , uso: 1 
+
+[INFO] 14:23:57:458 INSTANCIA/(2612:2612): clave: pizza
+[INFO] 14:23:57:458 INSTANCIA/(2612:2612): numero_ent: 3 , longitud: 10 , uso: 0 
+
+[INFO] 14:23:57:458 INSTANCIA/(2612:2612): clave: milanesa
+[INFO] 14:23:57:458 INSTANCIA/(2612:2612): numero_ent: 0 , longitud: 7 , uso: 0 
+
+[INFO] 14:23:57:458 INSTANCIA/(2612:2612): El array de entradas es:
+[INFO] 14:23:57:459 INSTANCIA/(2612:2612): El argumento de la posicion 0 es ''
+
+[INFO] 14:23:57:459 INSTANCIA/(2612:2612): El argumento de la posicion 1 es 'pizza'
+
+[INFO] 14:23:57:459 INSTANCIA/(2612:2612): El argumento de la posicion 2 es 'pizza'
+
+[INFO] 14:23:57:459 INSTANCIA/(2612:2612): El argumento de la posicion 3 es 'pizza'
+
+[INFO] 14:23:57:459 INSTANCIA/(2612:2612): El argumento de la posicion 4 es '(null)'
+
+[INFO] 14:23:57:459 INSTANCIA/(2612:2612): El argumento de la posicion 5 es '(null)'
+
+[INFO] 14:23:57:459 INSTANCIA/(2612:2612): El argumento de la posicion 6 es '(null)'
+
+[INFO] 14:23:57:460 INSTANCIA/(2612:2612): El argumento de la posicion 7 es '(null)'
+
+[INFO] 14:23:57:460 INSTANCIA/(2612:2612): El argumento de la posicion 8 es '(null)'
+
+[INFO] 14:23:57:460 INSTANCIA/(2612:2612): El argumento de la posicion 9 es '(null)'
+
+[INFO] 14:23:57:460 INSTANCIA/(2612:2612): El argumento de la posicion 10 es '(null)'
+
+[INFO] 14:23:57:460 INSTANCIA/(2612:2612): El argumento de la posicion 11 es '(null)'
+
+[INFO] 14:23:57:460 INSTANCIA/(2612:2612): El argumento de la posicion 12 es '(null)'
+
+[INFO] 14:23:57:460 INSTANCIA/(2612:2612): El argumento de la posicion 13 es '(null)'
+
+[INFO] 14:23:57:460 INSTANCIA/(2612:2612): El argumento de la posicion 14 es '(null)'
+
+[INFO] 14:23:57:460 INSTANCIA/(2612:2612): El argumento de la posicion 15 es '(null)'
+
+[INFO] 14:23:57:461 INSTANCIA/(2612:2612): El argumento de la posicion 16 es '(null)'
+
+[INFO] 14:23:57:461 INSTANCIA/(2612:2612): El argumento de la posicion 17 es '(null)'
+
+[INFO] 14:23:57:461 INSTANCIA/(2612:2612): El argumento de la posicion 18 es '(null)'
+
+[INFO] 14:23:57:461 INSTANCIA/(2612:2612): El argumento de la posicion 19 es '(null)'
+
+[INFO] 14:23:57:461 INSTANCIA/(2612:2612): El argumento de la posicion 20 es '(null)'
+
+[INFO] 14:23:57:461 INSTANCIA/(2612:2612): El argumento de la posicion 21 es '(null)'
+
+[INFO] 14:23:57:461 INSTANCIA/(2612:2612): El argumento de la posicion 22 es '(null)'
+
+[INFO] 14:23:57:461 INSTANCIA/(2612:2612): El argumento de la posicion 23 es '(null)'
+
+[INFO] 14:23:57:461 INSTANCIA/(2612:2612): El argumento de la posicion 24 es '(null)'
+
+[INFO] 14:23:57:461 INSTANCIA/(2612:2612): El argumento de la posicion 25 es '(null)'
+
+[INFO] 14:23:57:461 INSTANCIA/(2612:2612): El argumento de la posicion 26 es '(null)'
+
+[INFO] 14:23:57:462 INSTANCIA/(2612:2612): El argumento de la posicion 27 es '(null)'
+
+[INFO] 14:23:57:462 INSTANCIA/(2612:2612): El argumento de la posicion 28 es '(null)'
+
+[INFO] 14:23:57:462 INSTANCIA/(2612:2612): El argumento de la posicion 29 es '(null)'
+
+[INFO] 14:23:57:462 INSTANCIA/(2612:2612): El argumento de la posicion 30 es '(null)'
+
+[INFO] 14:23:57:462 INSTANCIA/(2612:2612): El argumento de la posicion 31 es '(null)'
+
+[INFO] 14:23:57:462 INSTANCIA/(2612:2612): El argumento de la posicion 32 es '(null)'
+
+[INFO] 14:23:57:462 INSTANCIA/(2612:2612): El argumento de la posicion 33 es '(null)'
+
+[INFO] 14:23:57:462 INSTANCIA/(2612:2612): El argumento de la posicion 34 es '(null)'
+
+[INFO] 14:23:57:462 INSTANCIA/(2612:2612): El argumento de la posicion 35 es '(null)'
+
+[INFO] 14:23:57:462 INSTANCIA/(2612:2612): El argumento de la posicion 36 es '(null)'
+
+[INFO] 14:23:57:463 INSTANCIA/(2612:2612): El argumento de la posicion 37 es '(null)'
+
+[INFO] 14:23:57:463 INSTANCIA/(2612:2612): El argumento de la posicion 38 es '(null)'
+
+[INFO] 14:23:57:463 INSTANCIA/(2612:2612): El argumento de la posicion 39 es '(null)'
+
+[INFO] 14:23:57:463 INSTANCIA/(2612:2612): El argumento de la posicion 40 es '(null)'
+
+[INFO] 14:23:57:463 INSTANCIA/(2612:2612): El argumento de la posicion 41 es '(null)'
+
+[INFO] 14:23:57:463 INSTANCIA/(2612:2612): El argumento de la posicion 42 es '(null)'
+
+[INFO] 14:23:57:463 INSTANCIA/(2612:2612): El argumento de la posicion 43 es '(null)'
+
+[INFO] 14:23:57:463 INSTANCIA/(2612:2612): El argumento de la posicion 44 es '(null)'
+
+[INFO] 14:23:57:463 INSTANCIA/(2612:2612): El argumento de la posicion 45 es '(null)'
+
+[INFO] 14:23:57:464 INSTANCIA/(2612:2612): El argumento de la posicion 46 es '(null)'
+
+[INFO] 14:23:57:464 INSTANCIA/(2612:2612): El argumento de la posicion 47 es '(null)'
+
+[INFO] 14:23:57:464 INSTANCIA/(2612:2612): El argumento de la posicion 48 es '(null)'
+
+[INFO] 14:23:57:464 INSTANCIA/(2612:2612): El argumento de la posicion 49 es '(null)'
+
+[INFO] 14:23:57:464 INSTANCIA/(2612:2612): La entrada se escribio correctamente 
+
+[INFO] 14:23:57:464 INSTANCIA/(2612:2612): la entrada escrita es: muzzarella 
+
+[INFO] 14:23:57:464 INSTANCIA/(2612:2612): clave: pancho
+[INFO] 14:23:57:465 INSTANCIA/(2612:2612): numero_ent: 0 , longitud: 5 , uso: 3 
+
+[INFO] 14:23:57:465 INSTANCIA/(2612:2612): clave: paty
+[INFO] 14:23:57:465 INSTANCIA/(2612:2612): numero_ent: 1 , longitud: 6 , uso: 4 
+
+[INFO] 14:23:57:465 INSTANCIA/(2612:2612): clave: empanada
+[INFO] 14:23:57:465 INSTANCIA/(2612:2612): numero_ent: 2 , longitud: 5 , uso: 2 
+
+[INFO] 14:23:57:465 INSTANCIA/(2612:2612): clave: pizza
+[INFO] 14:23:57:465 INSTANCIA/(2612:2612): numero_ent: 3 , longitud: 10 , uso: 0 
+
+[INFO] 14:23:57:465 INSTANCIA/(2612:2612): clave: milanesa
+[INFO] 14:23:57:465 INSTANCIA/(2612:2612): numero_ent: 0 , longitud: 7 , uso: 1 
+
+[INFO] 14:25:46:212 INSTANCIA/(2612:2612): Se desconecto el Coordinador, por lo tanto de abortará la instancias
+[INFO] 14:25:46:212 INSTANCIA/(2626:2626): Se desconecto el Coordinador, por lo tanto de abortará la instancias
+[INFO] 14:25:53:609 INSTANCIA/(2746:2746): Logger iniciado
+[INFO] 14:25:53:609 INSTANCIA/(2746:2746): Configuracion levantada
+[INFO] 14:25:53:609 INSTANCIA/(2746:2746): Intentando conectar con el coordinador
+[INFO] 14:25:53:649 INSTANCIA/(2746:2746): Conectado a Coordinador con socket 4 
+[INFO] 14:26:00:191 INSTANCIA/(2746:2746): accion recibida: SET
+[INFO] 14:26:00:192 INSTANCIA/(2746:2746): clave recibida para SET: milanesa
+[INFO] 14:26:00:229 INSTANCIA/(2746:2746): valor recibido para SET: napolitana
+[INFO] 14:26:00:229 INSTANCIA/(2746:2746): clave: milanesa
+[INFO] 14:26:00:230 INSTANCIA/(2746:2746): numero_ent: 0 , longitud: 10 , uso: 0 
+
+[INFO] 14:26:00:230 INSTANCIA/(2746:2746): El array de entradas es:
+[INFO] 14:26:00:230 INSTANCIA/(2746:2746): El argumento de la posicion 0 es 'milanesa'
+
+[INFO] 14:26:00:230 INSTANCIA/(2746:2746): El argumento de la posicion 1 es '(null)'
+
+[INFO] 14:26:00:231 INSTANCIA/(2746:2746): El argumento de la posicion 2 es '(null)'
+
+[INFO] 14:26:00:231 INSTANCIA/(2746:2746): El argumento de la posicion 3 es '(null)'
+
+[INFO] 14:26:00:231 INSTANCIA/(2746:2746): El argumento de la posicion 4 es '(null)'
+
+[INFO] 14:26:00:231 INSTANCIA/(2746:2746): El argumento de la posicion 5 es '(null)'
+
+[INFO] 14:26:00:231 INSTANCIA/(2746:2746): El argumento de la posicion 6 es '(null)'
+
+[INFO] 14:26:00:231 INSTANCIA/(2746:2746): El argumento de la posicion 7 es '(null)'
+
+[INFO] 14:26:00:232 INSTANCIA/(2746:2746): El argumento de la posicion 8 es '(null)'
+
+[INFO] 14:26:00:232 INSTANCIA/(2746:2746): El argumento de la posicion 9 es '(null)'
+
+[INFO] 14:26:00:232 INSTANCIA/(2746:2746): El argumento de la posicion 10 es '(null)'
+
+[INFO] 14:26:00:232 INSTANCIA/(2746:2746): El argumento de la posicion 11 es '(null)'
+
+[INFO] 14:26:00:232 INSTANCIA/(2746:2746): El argumento de la posicion 12 es '(null)'
+
+[INFO] 14:26:00:232 INSTANCIA/(2746:2746): El argumento de la posicion 13 es '(null)'
+
+[INFO] 14:26:00:232 INSTANCIA/(2746:2746): El argumento de la posicion 14 es '(null)'
+
+[INFO] 14:26:00:233 INSTANCIA/(2746:2746): El argumento de la posicion 15 es '(null)'
+
+[INFO] 14:26:00:233 INSTANCIA/(2746:2746): El argumento de la posicion 16 es '(null)'
+
+[INFO] 14:26:00:233 INSTANCIA/(2746:2746): El argumento de la posicion 17 es '(null)'
+
+[INFO] 14:26:00:233 INSTANCIA/(2746:2746): El argumento de la posicion 18 es '(null)'
+
+[INFO] 14:26:00:233 INSTANCIA/(2746:2746): El argumento de la posicion 19 es '(null)'
+
+[INFO] 14:26:00:233 INSTANCIA/(2746:2746): El argumento de la posicion 20 es '(null)'
+
+[INFO] 14:26:00:233 INSTANCIA/(2746:2746): El argumento de la posicion 21 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 22 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 23 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 24 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 25 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 26 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 27 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 28 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 29 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 30 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 31 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 32 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 33 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 34 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 35 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 36 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 37 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 38 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 39 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 40 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 41 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 42 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 43 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 44 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 45 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 46 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 47 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 48 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): El argumento de la posicion 49 es '(null)'
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): La entrada se escribio correctamente 
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): la entrada escrita es: napolitana 
+
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): clave: milanesa
+[INFO] 14:26:00:234 INSTANCIA/(2746:2746): numero_ent: 0 , longitud: 10 , uso: 0 
+
+[INFO] 14:26:01:237 INSTANCIA/(2746:2746): accion recibida: SET
+[INFO] 14:26:01:237 INSTANCIA/(2746:2746): clave recibida para SET: paty
+[INFO] 14:26:01:276 INSTANCIA/(2746:2746): valor recibido para SET: casero
+[INFO] 14:26:01:277 INSTANCIA/(2746:2746): clave: paty
+[INFO] 14:26:01:277 INSTANCIA/(2746:2746): numero_ent: 1 , longitud: 6 , uso: 0 
+
+[INFO] 14:26:01:277 INSTANCIA/(2746:2746): clave: milanesa
+[INFO] 14:26:01:277 INSTANCIA/(2746:2746): numero_ent: 0 , longitud: 10 , uso: 0 
+
+[INFO] 14:26:01:277 INSTANCIA/(2746:2746): El array de entradas es:
+[INFO] 14:26:01:277 INSTANCIA/(2746:2746): El argumento de la posicion 0 es ''
+
+[INFO] 14:26:01:278 INSTANCIA/(2746:2746): El argumento de la posicion 1 es 'paty'
+
+[INFO] 14:26:01:278 INSTANCIA/(2746:2746): El argumento de la posicion 2 es '(null)'
+
+[INFO] 14:26:01:278 INSTANCIA/(2746:2746): El argumento de la posicion 3 es '(null)'
+
+[INFO] 14:26:01:278 INSTANCIA/(2746:2746): El argumento de la posicion 4 es '(null)'
+
+[INFO] 14:26:01:278 INSTANCIA/(2746:2746): El argumento de la posicion 5 es '(null)'
+
+[INFO] 14:26:01:278 INSTANCIA/(2746:2746): El argumento de la posicion 6 es '(null)'
+
+[INFO] 14:26:01:278 INSTANCIA/(2746:2746): El argumento de la posicion 7 es '(null)'
+
+[INFO] 14:26:01:278 INSTANCIA/(2746:2746): El argumento de la posicion 8 es '(null)'
+
+[INFO] 14:26:01:278 INSTANCIA/(2746:2746): El argumento de la posicion 9 es '(null)'
+
+[INFO] 14:26:01:278 INSTANCIA/(2746:2746): El argumento de la posicion 10 es '(null)'
+
+[INFO] 14:26:01:279 INSTANCIA/(2746:2746): El argumento de la posicion 11 es '(null)'
+
+[INFO] 14:26:01:279 INSTANCIA/(2746:2746): El argumento de la posicion 12 es '(null)'
+
+[INFO] 14:26:01:279 INSTANCIA/(2746:2746): El argumento de la posicion 13 es '(null)'
+
+[INFO] 14:26:01:279 INSTANCIA/(2746:2746): El argumento de la posicion 14 es '(null)'
+
+[INFO] 14:26:01:279 INSTANCIA/(2746:2746): El argumento de la posicion 15 es '(null)'
+
+[INFO] 14:26:01:279 INSTANCIA/(2746:2746): El argumento de la posicion 16 es '(null)'
+
+[INFO] 14:26:01:279 INSTANCIA/(2746:2746): El argumento de la posicion 17 es '(null)'
+
+[INFO] 14:26:01:279 INSTANCIA/(2746:2746): El argumento de la posicion 18 es '(null)'
+
+[INFO] 14:26:01:279 INSTANCIA/(2746:2746): El argumento de la posicion 19 es '(null)'
+
+[INFO] 14:26:01:279 INSTANCIA/(2746:2746): El argumento de la posicion 20 es '(null)'
+
+[INFO] 14:26:01:280 INSTANCIA/(2746:2746): El argumento de la posicion 21 es '(null)'
+
+[INFO] 14:26:01:280 INSTANCIA/(2746:2746): El argumento de la posicion 22 es '(null)'
+
+[INFO] 14:26:01:280 INSTANCIA/(2746:2746): El argumento de la posicion 23 es '(null)'
+
+[INFO] 14:26:01:280 INSTANCIA/(2746:2746): El argumento de la posicion 24 es '(null)'
+
+[INFO] 14:26:01:280 INSTANCIA/(2746:2746): El argumento de la posicion 25 es '(null)'
+
+[INFO] 14:26:01:280 INSTANCIA/(2746:2746): El argumento de la posicion 26 es '(null)'
+
+[INFO] 14:26:01:280 INSTANCIA/(2746:2746): El argumento de la posicion 27 es '(null)'
+
+[INFO] 14:26:01:280 INSTANCIA/(2746:2746): El argumento de la posicion 28 es '(null)'
+
+[INFO] 14:26:01:280 INSTANCIA/(2746:2746): El argumento de la posicion 29 es '(null)'
+
+[INFO] 14:26:01:281 INSTANCIA/(2746:2746): El argumento de la posicion 30 es '(null)'
+
+[INFO] 14:26:01:281 INSTANCIA/(2746:2746): El argumento de la posicion 31 es '(null)'
+
+[INFO] 14:26:01:281 INSTANCIA/(2746:2746): El argumento de la posicion 32 es '(null)'
+
+[INFO] 14:26:01:281 INSTANCIA/(2746:2746): El argumento de la posicion 33 es '(null)'
+
+[INFO] 14:26:01:281 INSTANCIA/(2746:2746): El argumento de la posicion 34 es '(null)'
+
+[INFO] 14:26:01:281 INSTANCIA/(2746:2746): El argumento de la posicion 35 es '(null)'
+
+[INFO] 14:26:01:281 INSTANCIA/(2746:2746): El argumento de la posicion 36 es '(null)'
+
+[INFO] 14:26:01:281 INSTANCIA/(2746:2746): El argumento de la posicion 37 es '(null)'
+
+[INFO] 14:26:01:281 INSTANCIA/(2746:2746): El argumento de la posicion 38 es '(null)'
+
+[INFO] 14:26:01:281 INSTANCIA/(2746:2746): El argumento de la posicion 39 es '(null)'
+
+[INFO] 14:26:01:282 INSTANCIA/(2746:2746): El argumento de la posicion 40 es '(null)'
+
+[INFO] 14:26:01:282 INSTANCIA/(2746:2746): El argumento de la posicion 41 es '(null)'
+
+[INFO] 14:26:01:282 INSTANCIA/(2746:2746): El argumento de la posicion 42 es '(null)'
+
+[INFO] 14:26:01:282 INSTANCIA/(2746:2746): El argumento de la posicion 43 es '(null)'
+
+[INFO] 14:26:01:282 INSTANCIA/(2746:2746): El argumento de la posicion 44 es '(null)'
+
+[INFO] 14:26:01:282 INSTANCIA/(2746:2746): El argumento de la posicion 45 es '(null)'
+
+[INFO] 14:26:01:282 INSTANCIA/(2746:2746): El argumento de la posicion 46 es '(null)'
+
+[INFO] 14:26:01:282 INSTANCIA/(2746:2746): El argumento de la posicion 47 es '(null)'
+
+[INFO] 14:26:01:283 INSTANCIA/(2746:2746): El argumento de la posicion 48 es '(null)'
+
+[INFO] 14:26:01:283 INSTANCIA/(2746:2746): El argumento de la posicion 49 es '(null)'
+
+[INFO] 14:26:01:283 INSTANCIA/(2746:2746): La entrada se escribio correctamente 
+
+[INFO] 14:26:01:283 INSTANCIA/(2746:2746): la entrada escrita es: casero 
+
+[INFO] 14:26:01:283 INSTANCIA/(2746:2746): clave: paty
+[INFO] 14:26:01:283 INSTANCIA/(2746:2746): numero_ent: 1 , longitud: 6 , uso: 0 
+
+[INFO] 14:26:01:283 INSTANCIA/(2746:2746): clave: milanesa
+[INFO] 14:26:01:284 INSTANCIA/(2746:2746): numero_ent: 0 , longitud: 10 , uso: 1 
+
+[INFO] 14:26:02:287 INSTANCIA/(2746:2746): accion recibida: SET
+[INFO] 14:26:02:287 INSTANCIA/(2746:2746): clave recibida para SET: pancho
+[INFO] 14:26:02:325 INSTANCIA/(2746:2746): valor recibido para SET: papas
+[INFO] 14:26:02:325 INSTANCIA/(2746:2746): clave: pancho
+[INFO] 14:26:02:325 INSTANCIA/(2746:2746): numero_ent: 0 , longitud: 5 , uso: 0 
+
+[INFO] 14:26:02:326 INSTANCIA/(2746:2746): clave: paty
+[INFO] 14:26:02:326 INSTANCIA/(2746:2746): numero_ent: 1 , longitud: 6 , uso: 0 
+
+[INFO] 14:26:02:326 INSTANCIA/(2746:2746): clave: milanesa
+[INFO] 14:26:02:326 INSTANCIA/(2746:2746): numero_ent: 0 , longitud: 10 , uso: 1 
+
+[INFO] 14:26:02:326 INSTANCIA/(2746:2746): El array de entradas es:
+[INFO] 14:26:02:326 INSTANCIA/(2746:2746): El argumento de la posicion 0 es 'pancho'
+
+[INFO] 14:26:02:326 INSTANCIA/(2746:2746): El argumento de la posicion 1 es 'papas'
+
+[INFO] 14:26:02:327 INSTANCIA/(2746:2746): El argumento de la posicion 2 es '(null)'
+
+[INFO] 14:26:02:327 INSTANCIA/(2746:2746): El argumento de la posicion 3 es '(null)'
+
+[INFO] 14:26:02:327 INSTANCIA/(2746:2746): El argumento de la posicion 4 es '(null)'
+
+[INFO] 14:26:02:327 INSTANCIA/(2746:2746): El argumento de la posicion 5 es '(null)'
+
+[INFO] 14:26:02:327 INSTANCIA/(2746:2746): El argumento de la posicion 6 es '(null)'
+
+[INFO] 14:26:02:327 INSTANCIA/(2746:2746): El argumento de la posicion 7 es '(null)'
+
+[INFO] 14:26:02:327 INSTANCIA/(2746:2746): El argumento de la posicion 8 es '(null)'
+
+[INFO] 14:26:02:328 INSTANCIA/(2746:2746): El argumento de la posicion 9 es '(null)'
+
+[INFO] 14:26:02:328 INSTANCIA/(2746:2746): El argumento de la posicion 10 es '(null)'
+
+[INFO] 14:26:02:328 INSTANCIA/(2746:2746): El argumento de la posicion 11 es '(null)'
+
+[INFO] 14:26:02:328 INSTANCIA/(2746:2746): El argumento de la posicion 12 es '(null)'
+
+[INFO] 14:26:02:328 INSTANCIA/(2746:2746): El argumento de la posicion 13 es '(null)'
+
+[INFO] 14:26:02:328 INSTANCIA/(2746:2746): El argumento de la posicion 14 es '(null)'
+
+[INFO] 14:26:02:328 INSTANCIA/(2746:2746): El argumento de la posicion 15 es '(null)'
+
+[INFO] 14:26:02:328 INSTANCIA/(2746:2746): El argumento de la posicion 16 es '(null)'
+
+[INFO] 14:26:02:328 INSTANCIA/(2746:2746): El argumento de la posicion 17 es '(null)'
+
+[INFO] 14:26:02:328 INSTANCIA/(2746:2746): El argumento de la posicion 18 es '(null)'
+
+[INFO] 14:26:02:329 INSTANCIA/(2746:2746): El argumento de la posicion 19 es '(null)'
+
+[INFO] 14:26:02:329 INSTANCIA/(2746:2746): El argumento de la posicion 20 es '(null)'
+
+[INFO] 14:26:02:329 INSTANCIA/(2746:2746): El argumento de la posicion 21 es '(null)'
+
+[INFO] 14:26:02:329 INSTANCIA/(2746:2746): El argumento de la posicion 22 es '(null)'
+
+[INFO] 14:26:02:329 INSTANCIA/(2746:2746): El argumento de la posicion 23 es '(null)'
+
+[INFO] 14:26:02:329 INSTANCIA/(2746:2746): El argumento de la posicion 24 es '(null)'
+
+[INFO] 14:26:02:329 INSTANCIA/(2746:2746): El argumento de la posicion 25 es '(null)'
+
+[INFO] 14:26:02:329 INSTANCIA/(2746:2746): El argumento de la posicion 26 es '(null)'
+
+[INFO] 14:26:02:330 INSTANCIA/(2746:2746): El argumento de la posicion 27 es '(null)'
+
+[INFO] 14:26:02:330 INSTANCIA/(2746:2746): El argumento de la posicion 28 es '(null)'
+
+[INFO] 14:26:02:330 INSTANCIA/(2746:2746): El argumento de la posicion 29 es '(null)'
+
+[INFO] 14:26:02:330 INSTANCIA/(2746:2746): El argumento de la posicion 30 es '(null)'
+
+[INFO] 14:26:02:330 INSTANCIA/(2746:2746): El argumento de la posicion 31 es '(null)'
+
+[INFO] 14:26:02:330 INSTANCIA/(2746:2746): El argumento de la posicion 32 es '(null)'
+
+[INFO] 14:26:02:330 INSTANCIA/(2746:2746): El argumento de la posicion 33 es '(null)'
+
+[INFO] 14:26:02:330 INSTANCIA/(2746:2746): El argumento de la posicion 34 es '(null)'
+
+[INFO] 14:26:02:330 INSTANCIA/(2746:2746): El argumento de la posicion 35 es '(null)'
+
+[INFO] 14:26:02:331 INSTANCIA/(2746:2746): El argumento de la posicion 36 es '(null)'
+
+[INFO] 14:26:02:331 INSTANCIA/(2746:2746): El argumento de la posicion 37 es '(null)'
+
+[INFO] 14:26:02:331 INSTANCIA/(2746:2746): El argumento de la posicion 38 es '(null)'
+
+[INFO] 14:26:02:331 INSTANCIA/(2746:2746): El argumento de la posicion 39 es '(null)'
+
+[INFO] 14:26:02:331 INSTANCIA/(2746:2746): El argumento de la posicion 40 es '(null)'
+
+[INFO] 14:26:02:331 INSTANCIA/(2746:2746): El argumento de la posicion 41 es '(null)'
+
+[INFO] 14:26:02:331 INSTANCIA/(2746:2746): El argumento de la posicion 42 es '(null)'
+
+[INFO] 14:26:02:331 INSTANCIA/(2746:2746): El argumento de la posicion 43 es '(null)'
+
+[INFO] 14:26:02:331 INSTANCIA/(2746:2746): El argumento de la posicion 44 es '(null)'
+
+[INFO] 14:26:02:331 INSTANCIA/(2746:2746): El argumento de la posicion 45 es '(null)'
+
+[INFO] 14:26:02:332 INSTANCIA/(2746:2746): El argumento de la posicion 46 es '(null)'
+
+[INFO] 14:26:02:332 INSTANCIA/(2746:2746): El argumento de la posicion 47 es '(null)'
+
+[INFO] 14:26:02:332 INSTANCIA/(2746:2746): El argumento de la posicion 48 es '(null)'
+
+[INFO] 14:26:02:332 INSTANCIA/(2746:2746): El argumento de la posicion 49 es '(null)'
+
+[INFO] 14:26:02:332 INSTANCIA/(2746:2746): La entrada se escribio correctamente 
+
+[INFO] 14:26:02:332 INSTANCIA/(2746:2746): la entrada escrita es: papas 
+
+[INFO] 14:26:02:332 INSTANCIA/(2746:2746): clave: pancho
+[INFO] 14:26:02:333 INSTANCIA/(2746:2746): numero_ent: 0 , longitud: 5 , uso: 0 
+
+[INFO] 14:26:02:333 INSTANCIA/(2746:2746): clave: paty
+[INFO] 14:26:02:333 INSTANCIA/(2746:2746): numero_ent: 1 , longitud: 6 , uso: 1 
+
+[INFO] 14:26:02:333 INSTANCIA/(2746:2746): clave: milanesa
+[INFO] 14:26:02:333 INSTANCIA/(2746:2746): numero_ent: 0 , longitud: 10 , uso: 2 
+
+[INFO] 14:26:03:339 INSTANCIA/(2746:2746): accion recibida: SET
+[INFO] 14:26:03:340 INSTANCIA/(2746:2746): clave recibida para SET: empanada
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): valor recibido para SET: carne
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): clave: pancho
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): numero_ent: 0 , longitud: 5 , uso: 0 
+
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): clave: paty
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): numero_ent: 1 , longitud: 6 , uso: 1 
+
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): clave: empanada
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): numero_ent: 2 , longitud: 5 , uso: 0 
+
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): clave: milanesa
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): numero_ent: 0 , longitud: 10 , uso: 2 
+
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): El array de entradas es:
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): El argumento de la posicion 0 es 'carne'
+
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): El argumento de la posicion 1 es 'empanada'
+
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): El argumento de la posicion 2 es 'empanada'
+
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): El argumento de la posicion 3 es '(null)'
+
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): El argumento de la posicion 4 es '(null)'
+
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): El argumento de la posicion 5 es '(null)'
+
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): El argumento de la posicion 6 es '(null)'
+
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): El argumento de la posicion 7 es '(null)'
+
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): El argumento de la posicion 8 es '(null)'
+
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): El argumento de la posicion 9 es '(null)'
+
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): El argumento de la posicion 10 es '(null)'
+
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): El argumento de la posicion 11 es '(null)'
+
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): El argumento de la posicion 12 es '(null)'
+
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): El argumento de la posicion 13 es '(null)'
+
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): El argumento de la posicion 14 es '(null)'
+
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): El argumento de la posicion 15 es '(null)'
+
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): El argumento de la posicion 16 es '(null)'
+
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): El argumento de la posicion 17 es '(null)'
+
+[INFO] 14:26:03:377 INSTANCIA/(2746:2746): El argumento de la posicion 18 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 19 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 20 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 21 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 22 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 23 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 24 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 25 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 26 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 27 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 28 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 29 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 30 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 31 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 32 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 33 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 34 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 35 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 36 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 37 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 38 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 39 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 40 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 41 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 42 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 43 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 44 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 45 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 46 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 47 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 48 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): El argumento de la posicion 49 es '(null)'
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): La entrada se escribio correctamente 
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): la entrada escrita es: carne 
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): clave: pancho
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): numero_ent: 0 , longitud: 5 , uso: 1 
+
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): clave: paty
+[INFO] 14:26:03:378 INSTANCIA/(2746:2746): numero_ent: 1 , longitud: 6 , uso: 2 
+
+[INFO] 14:26:03:379 INSTANCIA/(2746:2746): clave: empanada
+[INFO] 14:26:03:379 INSTANCIA/(2746:2746): numero_ent: 2 , longitud: 5 , uso: 0 
+
+[INFO] 14:26:03:379 INSTANCIA/(2746:2746): clave: milanesa
+[INFO] 14:26:03:379 INSTANCIA/(2746:2746): numero_ent: 0 , longitud: 10 , uso: 3 
+
+[INFO] 14:26:04:379 INSTANCIA/(2746:2746): accion recibida: SET
+[INFO] 14:26:04:379 INSTANCIA/(2746:2746): clave recibida para SET: milanesa
+[INFO] 14:26:04:416 INSTANCIA/(2746:2746): valor recibido para SET: caballo
+[INFO] 14:26:04:417 INSTANCIA/(2746:2746): El argumento de la posicion 0 es ''
+
+[INFO] 14:26:04:417 INSTANCIA/(2746:2746): El argumento de la posicion 1 es 'caballo'
+
+[INFO] 14:26:04:417 INSTANCIA/(2746:2746): El argumento de la posicion 2 es 'caballo'
+
+[INFO] 14:26:04:417 INSTANCIA/(2746:2746): El argumento de la posicion 3 es '(null)'
+
+[INFO] 14:26:04:417 INSTANCIA/(2746:2746): El argumento de la posicion 4 es '(null)'
+
+[INFO] 14:26:04:417 INSTANCIA/(2746:2746): El argumento de la posicion 5 es '(null)'
+
+[INFO] 14:26:04:417 INSTANCIA/(2746:2746): El argumento de la posicion 6 es '(null)'
+
+[INFO] 14:26:04:417 INSTANCIA/(2746:2746): El argumento de la posicion 7 es '(null)'
+
+[INFO] 14:26:04:417 INSTANCIA/(2746:2746): El argumento de la posicion 8 es '(null)'
+
+[INFO] 14:26:04:417 INSTANCIA/(2746:2746): El argumento de la posicion 9 es '(null)'
+
+[INFO] 14:26:04:417 INSTANCIA/(2746:2746): El argumento de la posicion 10 es '(null)'
+
+[INFO] 14:26:04:417 INSTANCIA/(2746:2746): El argumento de la posicion 11 es '(null)'
+
+[INFO] 14:26:04:417 INSTANCIA/(2746:2746): El argumento de la posicion 12 es '(null)'
+
+[INFO] 14:26:04:417 INSTANCIA/(2746:2746): El argumento de la posicion 13 es '(null)'
+
+[INFO] 14:26:04:417 INSTANCIA/(2746:2746): El argumento de la posicion 14 es '(null)'
+
+[INFO] 14:26:04:417 INSTANCIA/(2746:2746): El argumento de la posicion 15 es '(null)'
+
+[INFO] 14:26:04:417 INSTANCIA/(2746:2746): El argumento de la posicion 16 es '(null)'
+
+[INFO] 14:26:04:417 INSTANCIA/(2746:2746): El argumento de la posicion 17 es '(null)'
+
+[INFO] 14:26:04:417 INSTANCIA/(2746:2746): El argumento de la posicion 18 es '(null)'
+
+[INFO] 14:26:04:417 INSTANCIA/(2746:2746): El argumento de la posicion 19 es '(null)'
+
+[INFO] 14:26:04:417 INSTANCIA/(2746:2746): El argumento de la posicion 20 es '(null)'
+
+[INFO] 14:26:04:417 INSTANCIA/(2746:2746): El argumento de la posicion 21 es '(null)'
+
+[INFO] 14:26:04:417 INSTANCIA/(2746:2746): El argumento de la posicion 22 es '(null)'
+
+[INFO] 14:26:04:417 INSTANCIA/(2746:2746): El argumento de la posicion 23 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 24 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 25 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 26 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 27 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 28 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 29 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 30 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 31 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 32 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 33 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 34 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 35 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 36 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 37 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 38 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 39 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 40 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 41 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 42 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 43 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 44 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 45 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 46 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 47 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 48 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): El argumento de la posicion 49 es '(null)'
+
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): clave: pancho
+[INFO] 14:26:04:418 INSTANCIA/(2746:2746): numero_ent: 0 , longitud: 5 , uso: 1 
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): clave: paty
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): numero_ent: 1 , longitud: 6 , uso: 2 
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): clave: empanada
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): numero_ent: 2 , longitud: 5 , uso: 0 
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): clave: milanesa
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): numero_ent: 0 , longitud: 7 , uso: 0 
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): El argumento de la posicion 0 es 'milanesa'
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): El argumento de la posicion 1 es 'caballo'
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): El argumento de la posicion 2 es 'caballo'
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): El argumento de la posicion 3 es '(null)'
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): El argumento de la posicion 4 es '(null)'
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): El argumento de la posicion 5 es '(null)'
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): El argumento de la posicion 6 es '(null)'
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): El argumento de la posicion 7 es '(null)'
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): El argumento de la posicion 8 es '(null)'
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): El argumento de la posicion 9 es '(null)'
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): El argumento de la posicion 10 es '(null)'
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): El argumento de la posicion 11 es '(null)'
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): El argumento de la posicion 12 es '(null)'
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): El argumento de la posicion 13 es '(null)'
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): El argumento de la posicion 14 es '(null)'
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): El argumento de la posicion 15 es '(null)'
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): El argumento de la posicion 16 es '(null)'
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): El argumento de la posicion 17 es '(null)'
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): El argumento de la posicion 18 es '(null)'
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): El argumento de la posicion 19 es '(null)'
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): El argumento de la posicion 20 es '(null)'
+
+[INFO] 14:26:04:419 INSTANCIA/(2746:2746): El argumento de la posicion 21 es '(null)'
+
+[INFO] 14:26:04:420 INSTANCIA/(2746:2746): El argumento de la posicion 22 es '(null)'
+
+[INFO] 14:26:04:420 INSTANCIA/(2746:2746): El argumento de la posicion 23 es '(null)'
+
+[INFO] 14:26:04:420 INSTANCIA/(2746:2746): El argumento de la posicion 24 es '(null)'
+
+[INFO] 14:26:04:420 INSTANCIA/(2746:2746): El argumento de la posicion 25 es '(null)'
+
+[INFO] 14:26:04:420 INSTANCIA/(2746:2746): El argumento de la posicion 26 es '(null)'
+
+[INFO] 14:26:04:420 INSTANCIA/(2746:2746): El argumento de la posicion 27 es '(null)'
+
+[INFO] 14:26:04:420 INSTANCIA/(2746:2746): El argumento de la posicion 28 es '(null)'
+
+[INFO] 14:26:04:420 INSTANCIA/(2746:2746): El argumento de la posicion 29 es '(null)'
+
+[INFO] 14:26:04:420 INSTANCIA/(2746:2746): El argumento de la posicion 30 es '(null)'
+
+[INFO] 14:26:04:420 INSTANCIA/(2746:2746): El argumento de la posicion 31 es '(null)'
+
+[INFO] 14:26:04:420 INSTANCIA/(2746:2746): El argumento de la posicion 32 es '(null)'
+
+[INFO] 14:26:04:420 INSTANCIA/(2746:2746): El argumento de la posicion 33 es '(null)'
+
+[INFO] 14:26:04:420 INSTANCIA/(2746:2746): El argumento de la posicion 34 es '(null)'
+
+[INFO] 14:26:04:420 INSTANCIA/(2746:2746): El argumento de la posicion 35 es '(null)'
+
+[INFO] 14:26:04:421 INSTANCIA/(2746:2746): El argumento de la posicion 36 es '(null)'
+
+[INFO] 14:26:04:421 INSTANCIA/(2746:2746): El argumento de la posicion 37 es '(null)'
+
+[INFO] 14:26:04:421 INSTANCIA/(2746:2746): El argumento de la posicion 38 es '(null)'
+
+[INFO] 14:26:04:421 INSTANCIA/(2746:2746): El argumento de la posicion 39 es '(null)'
+
+[INFO] 14:26:04:421 INSTANCIA/(2746:2746): El argumento de la posicion 40 es '(null)'
+
+[INFO] 14:26:04:421 INSTANCIA/(2746:2746): El argumento de la posicion 41 es '(null)'
+
+[INFO] 14:26:04:421 INSTANCIA/(2746:2746): El argumento de la posicion 42 es '(null)'
+
+[INFO] 14:26:04:421 INSTANCIA/(2746:2746): El argumento de la posicion 43 es '(null)'
+
+[INFO] 14:26:04:421 INSTANCIA/(2746:2746): El argumento de la posicion 44 es '(null)'
+
+[INFO] 14:26:04:421 INSTANCIA/(2746:2746): El argumento de la posicion 45 es '(null)'
+
+[INFO] 14:26:04:421 INSTANCIA/(2746:2746): El argumento de la posicion 46 es '(null)'
+
+[INFO] 14:26:04:421 INSTANCIA/(2746:2746): El argumento de la posicion 47 es '(null)'
+
+[INFO] 14:26:04:421 INSTANCIA/(2746:2746): El argumento de la posicion 48 es '(null)'
+
+[INFO] 14:26:04:421 INSTANCIA/(2746:2746): El argumento de la posicion 49 es '(null)'
+
+[INFO] 14:26:04:421 INSTANCIA/(2746:2746): clave: pancho
+[INFO] 14:26:04:421 INSTANCIA/(2746:2746): numero_ent: 0 , longitud: 5 , uso: 2 
+
+[INFO] 14:26:04:421 INSTANCIA/(2746:2746): clave: paty
+[INFO] 14:26:04:421 INSTANCIA/(2746:2746): numero_ent: 1 , longitud: 6 , uso: 3 
+
+[INFO] 14:26:04:421 INSTANCIA/(2746:2746): clave: empanada
+[INFO] 14:26:04:421 INSTANCIA/(2746:2746): numero_ent: 2 , longitud: 5 , uso: 1 
+
+[INFO] 14:26:04:421 INSTANCIA/(2746:2746): clave: milanesa
+[INFO] 14:26:04:421 INSTANCIA/(2746:2746): numero_ent: 0 , longitud: 7 , uso: 0 
+
+[INFO] 14:26:05:425 INSTANCIA/(2746:2746): accion recibida: SET
+[INFO] 14:26:05:426 INSTANCIA/(2746:2746): clave recibida para SET: pizza
+[INFO] 14:26:05:465 INSTANCIA/(2746:2746): valor recibido para SET: muzzarella
+[INFO] 14:26:05:465 INSTANCIA/(2746:2746): clave: pancho
+[INFO] 14:26:05:465 INSTANCIA/(2746:2746): numero_ent: 0 , longitud: 5 , uso: 2 
+
+[INFO] 14:26:05:465 INSTANCIA/(2746:2746): clave: paty
+[INFO] 14:26:05:466 INSTANCIA/(2746:2746): numero_ent: 1 , longitud: 6 , uso: 3 
+
+[INFO] 14:26:05:466 INSTANCIA/(2746:2746): clave: empanada
+[INFO] 14:26:05:466 INSTANCIA/(2746:2746): numero_ent: 2 , longitud: 5 , uso: 1 
+
+[INFO] 14:26:05:466 INSTANCIA/(2746:2746): clave: pizza
+[INFO] 14:26:05:466 INSTANCIA/(2746:2746): numero_ent: 3 , longitud: 10 , uso: 0 
+
+[INFO] 14:26:05:466 INSTANCIA/(2746:2746): clave: milanesa
+[INFO] 14:26:05:466 INSTANCIA/(2746:2746): numero_ent: 0 , longitud: 7 , uso: 0 
+
+[INFO] 14:26:05:466 INSTANCIA/(2746:2746): El array de entradas es:
+[INFO] 14:26:05:467 INSTANCIA/(2746:2746): El argumento de la posicion 0 es ''
+
+[INFO] 14:26:05:467 INSTANCIA/(2746:2746): El argumento de la posicion 1 es 'pizza'
+
+[INFO] 14:26:05:467 INSTANCIA/(2746:2746): El argumento de la posicion 2 es 'pizza'
+
+[INFO] 14:26:05:467 INSTANCIA/(2746:2746): El argumento de la posicion 3 es 'pizza'
+
+[INFO] 14:26:05:467 INSTANCIA/(2746:2746): El argumento de la posicion 4 es '(null)'
+
+[INFO] 14:26:05:467 INSTANCIA/(2746:2746): El argumento de la posicion 5 es '(null)'
+
+[INFO] 14:26:05:467 INSTANCIA/(2746:2746): El argumento de la posicion 6 es '(null)'
+
+[INFO] 14:26:05:467 INSTANCIA/(2746:2746): El argumento de la posicion 7 es '(null)'
+
+[INFO] 14:26:05:467 INSTANCIA/(2746:2746): El argumento de la posicion 8 es '(null)'
+
+[INFO] 14:26:05:467 INSTANCIA/(2746:2746): El argumento de la posicion 9 es '(null)'
+
+[INFO] 14:26:05:468 INSTANCIA/(2746:2746): El argumento de la posicion 10 es '(null)'
+
+[INFO] 14:26:05:468 INSTANCIA/(2746:2746): El argumento de la posicion 11 es '(null)'
+
+[INFO] 14:26:05:468 INSTANCIA/(2746:2746): El argumento de la posicion 12 es '(null)'
+
+[INFO] 14:26:05:468 INSTANCIA/(2746:2746): El argumento de la posicion 13 es '(null)'
+
+[INFO] 14:26:05:468 INSTANCIA/(2746:2746): El argumento de la posicion 14 es '(null)'
+
+[INFO] 14:26:05:468 INSTANCIA/(2746:2746): El argumento de la posicion 15 es '(null)'
+
+[INFO] 14:26:05:469 INSTANCIA/(2746:2746): El argumento de la posicion 16 es '(null)'
+
+[INFO] 14:26:05:469 INSTANCIA/(2746:2746): El argumento de la posicion 17 es '(null)'
+
+[INFO] 14:26:05:469 INSTANCIA/(2746:2746): El argumento de la posicion 18 es '(null)'
+
+[INFO] 14:26:05:469 INSTANCIA/(2746:2746): El argumento de la posicion 19 es '(null)'
+
+[INFO] 14:26:05:469 INSTANCIA/(2746:2746): El argumento de la posicion 20 es '(null)'
+
+[INFO] 14:26:05:469 INSTANCIA/(2746:2746): El argumento de la posicion 21 es '(null)'
+
+[INFO] 14:26:05:470 INSTANCIA/(2746:2746): El argumento de la posicion 22 es '(null)'
+
+[INFO] 14:26:05:470 INSTANCIA/(2746:2746): El argumento de la posicion 23 es '(null)'
+
+[INFO] 14:26:05:470 INSTANCIA/(2746:2746): El argumento de la posicion 24 es '(null)'
+
+[INFO] 14:26:05:470 INSTANCIA/(2746:2746): El argumento de la posicion 25 es '(null)'
+
+[INFO] 14:26:05:470 INSTANCIA/(2746:2746): El argumento de la posicion 26 es '(null)'
+
+[INFO] 14:26:05:470 INSTANCIA/(2746:2746): El argumento de la posicion 27 es '(null)'
+
+[INFO] 14:26:05:470 INSTANCIA/(2746:2746): El argumento de la posicion 28 es '(null)'
+
+[INFO] 14:26:05:471 INSTANCIA/(2746:2746): El argumento de la posicion 29 es '(null)'
+
+[INFO] 14:26:05:471 INSTANCIA/(2746:2746): El argumento de la posicion 30 es '(null)'
+
+[INFO] 14:26:05:471 INSTANCIA/(2746:2746): El argumento de la posicion 31 es '(null)'
+
+[INFO] 14:26:05:471 INSTANCIA/(2746:2746): El argumento de la posicion 32 es '(null)'
+
+[INFO] 14:26:05:471 INSTANCIA/(2746:2746): El argumento de la posicion 33 es '(null)'
+
+[INFO] 14:26:05:471 INSTANCIA/(2746:2746): El argumento de la posicion 34 es '(null)'
+
+[INFO] 14:26:05:471 INSTANCIA/(2746:2746): El argumento de la posicion 35 es '(null)'
+
+[INFO] 14:26:05:471 INSTANCIA/(2746:2746): El argumento de la posicion 36 es '(null)'
+
+[INFO] 14:26:05:471 INSTANCIA/(2746:2746): El argumento de la posicion 37 es '(null)'
+
+[INFO] 14:26:05:471 INSTANCIA/(2746:2746): El argumento de la posicion 38 es '(null)'
+
+[INFO] 14:26:05:472 INSTANCIA/(2746:2746): El argumento de la posicion 39 es '(null)'
+
+[INFO] 14:26:05:472 INSTANCIA/(2746:2746): El argumento de la posicion 40 es '(null)'
+
+[INFO] 14:26:05:472 INSTANCIA/(2746:2746): El argumento de la posicion 41 es '(null)'
+
+[INFO] 14:26:05:472 INSTANCIA/(2746:2746): El argumento de la posicion 42 es '(null)'
+
+[INFO] 14:26:05:472 INSTANCIA/(2746:2746): El argumento de la posicion 43 es '(null)'
+
+[INFO] 14:26:05:472 INSTANCIA/(2746:2746): El argumento de la posicion 44 es '(null)'
+
+[INFO] 14:26:05:472 INSTANCIA/(2746:2746): El argumento de la posicion 45 es '(null)'
+
+[INFO] 14:26:05:472 INSTANCIA/(2746:2746): El argumento de la posicion 46 es '(null)'
+
+[INFO] 14:26:05:473 INSTANCIA/(2746:2746): El argumento de la posicion 47 es '(null)'
+
+[INFO] 14:26:05:473 INSTANCIA/(2746:2746): El argumento de la posicion 48 es '(null)'
+
+[INFO] 14:26:05:473 INSTANCIA/(2746:2746): El argumento de la posicion 49 es '(null)'
+
+[INFO] 14:26:05:473 INSTANCIA/(2746:2746): La entrada se escribio correctamente 
+
+[INFO] 14:26:05:474 INSTANCIA/(2746:2746): la entrada escrita es: muzzarella 
+
+[INFO] 14:26:05:474 INSTANCIA/(2746:2746): clave: pancho
+[INFO] 14:26:05:476 INSTANCIA/(2746:2746): numero_ent: 0 , longitud: 5 , uso: 3 
+
+[INFO] 14:26:05:476 INSTANCIA/(2746:2746): clave: paty
+[INFO] 14:26:05:476 INSTANCIA/(2746:2746): numero_ent: 1 , longitud: 6 , uso: 4 
+
+[INFO] 14:26:05:477 INSTANCIA/(2746:2746): clave: empanada
+[INFO] 14:26:05:477 INSTANCIA/(2746:2746): numero_ent: 2 , longitud: 5 , uso: 2 
+
+[INFO] 14:26:05:477 INSTANCIA/(2746:2746): clave: pizza
+[INFO] 14:26:05:477 INSTANCIA/(2746:2746): numero_ent: 3 , longitud: 10 , uso: 0 
+
+[INFO] 14:26:05:477 INSTANCIA/(2746:2746): clave: milanesa
+[INFO] 14:26:05:477 INSTANCIA/(2746:2746): numero_ent: 0 , longitud: 7 , uso: 1 
+
+[INFO] 14:26:38:819 INSTANCIA/(2746:2746): Se desconecto el Coordinador, por lo tanto de abortará la instancias
